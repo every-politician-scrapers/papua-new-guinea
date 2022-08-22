@@ -1,6 +1,13 @@
 id,name,relationship,relative,relativename
 Q27975449,Charles Kauvu Abel,father,Q104708540,Christopher Abel
+Q316264,Michael Somare,child,Q104832026,Bertha Somare
+Q316264,Michael Somare,child,Q104832043,Dulciana Somare-Brash
+Q316264,Michael Somare,child,Q104832089,Michael Maiwa Somare
+Q316264,Michael Somare,child,Q104832196,Sana Somare
+Q316264,Michael Somare,child,Q711564,Arthur Somare
+Q316264,Michael Somare,spouse,Q104832042,Veronica Somare
 Q57892,Peter O'Neill,spouse,Q106006165,Lynda May Babao
+Q58169,Sam Abal,father,Q87848310,Tei Abal
 Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
 Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
