@@ -1,0 +1,4 @@
+@@,item,itemlabel,startdate,enddate
+---,Q1312080,John Momis,1999-12-09,2005-04-20
+->,Q1312080,John Momis,2010-06-10,2020-09-25->2015-06-10
++++,Q1312080,John Momis,2015-06-10,2020-09-25
