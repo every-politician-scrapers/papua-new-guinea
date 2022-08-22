@@ -1,0 +1,86 @@
+{
+  "title": "Job Pomat",
+  "pageID": 71248519,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Speakers of the National Parliament of Papua New Guinea",
+    "People's National Congress (Papua New Guinea) politicians",
+    "21st-century politicians",
+    "Companions of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Job Pomat (born 1960) is a Papua New guinea politician.",
+              "formatting": {
+                "bold": [
+                  "Job Pomat"
+                ]
+              }
+            },
+            {
+              "text": "He has been Speaker of the National Parliament since 2017.",
+              "links": [
+                {
+                  "text": "Speaker of the National Parliament",
+                  "type": "internal",
+                  "page": "Speaker of the National Parliament of Papua New Guinea"
+                }
+              ]
+            },
+            {
+              "text": "He resigned from the People's National Congress in 2020.",
+              "links": [
+                {
+                  "text": "People's National Congress",
+                  "type": "internal",
+                  "page": "People's National Congress (Papua New Guinea)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2022",
+          "template": "expand french"
+        },
+        {
+          "description": "Papua New Guinean politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-06-23",
+          "title": "PNG parliament speaker resigns from party",
+          "url": "https://www.rnz.co.nz/international/pacific-news/419681/png-parliament-speaker-resigns-from-party",
+          "access-date": "2022-07-07",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "papuanewguinea-politician-stub"
+        }
+      ]
+    }
+  ]
+}
