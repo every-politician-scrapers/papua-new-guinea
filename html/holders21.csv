@@ -1,8 +1,34 @@
 position,person,personID,start,end
 monarch,Elizabeth II,Q9682,1975-09-16,
+Governor-General,Silas Atopare,Q935472,1997-11-20,2003-11-20
+Governor-General,Bill Skate,Q719336,2003-11-21,2004-05-28
+Governor-General,Jeffrey Nape,Q1686476,2004-05-28,2004-06-29
+Governor-General,Paulias Matane,Q471229,2004-06-29,2010-12-13
+Governor-General,Jeffrey Nape,Q1686476,2010-12-13,2010-12-20
+Governor-General,Michael Ogio,Q561338,2011-02-25,2017-02-18
+Governor-General,Theo Zurenuoc,Q5362021,2017-02-18,2017-02-28
+Governor-General,Bob Dadae,Q28647870,2017-02-28,
+Prime Minister,Mekere Morauta,Q1381425,1999-07-14,2002-08-05
+Prime Minister,Michael Somare,Q316264,2002-08-05,2011-08-02
+Prime Minister,Sam Abal,Q58169,2010-12-13,2011-01-17
+Prime Minister,Sam Abal,Q58169,2011-04-04,2011-08-02
 Prime Minister,Peter O'Neill,Q57892,2011-08-02,2019-05-29
 Prime Minister,James Marape,Q6138903,2019-05-30,
+Minister of Education,James Marape,Q6138903,2008-12-16,2011-08-02
+Minister of Finance,James Marape,Q6138903,2012-08,2019-04-11
 Minister of Foreign Affairs,Rimbink Pato,Q17318820,2012-08-09,2019-05-31
 Minister of Foreign Affairs,Soroi Eoe,Q64747295,2019-06-07,2019-11-08
 Minister of Foreign Affairs,Soroi Eoe,Q64747295,2020-12-20,
-President of Bougainville,John Momis,Q1312080,2010,
+President of Bougainville,John Momis,Q1312080,1999-12-09,2005-04-20
+President of Bougainville,Joseph Kabui,Q1707366,2005-06-15,2008-06-07
+President of Bougainville,John Tabinaman,Q5763004,2008-06-07,2009-01-06
+President of Bougainville,James Tanis,Q438696,2009-01-06,2010-06-10
+President of Bougainville,John Momis,Q1312080,2010-06-10,2020-09-25
+President of Bougainville,Ishmael Toroama,Q99525723,2020-09-25,
+Speaker of the National Parliament,Bernard Narokobi,Q466818,1999-07-14,2002-08-05
+Speaker of the National Parliament,Bill Skate,Q719336,2002-08-05,2004-05-28
+Speaker of the National Parliament,Jeffrey Nape,Q1686476,2004-05-28,2007-08-13
+Speaker of the National Parliament,Jeffrey Nape,Q1686476,2007-08-13,2012-08-03
+Speaker of the National Parliament,Theo Zurenuoc,Q5362021,2012-08-03,2017-08-02
+Speaker of the National Parliament,Job Pomat,Q90000254,2017-08-02,
+ambassador to the People's Republic of China,John Momis,Q1312080,2007,2010
