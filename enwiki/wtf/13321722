@@ -178,11 +178,15 @@
             ]
           },
           "deputy": {
-            "text": "Davis Steven (2019-2020) Sam Basil (2020-2022)",
+            "text": "Davis Steven (2019-2020) Sam Basil (2020-2022) John Rosso (2022-present)",
             "links": [
               {
                 "type": "internal",
                 "page": "Sam Basil"
+              },
+              {
+                "type": "internal",
+                "page": "John Rosso"
               }
             ]
           },
