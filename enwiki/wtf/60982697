@@ -133,6 +133,15 @@
               }
             ]
           },
+          "successor": {
+            "text": "Justin Tkatchenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Tkatchenko"
+              }
+            ]
+          },
           "primeminister": {
             "text": "James Marape",
             "links": [
@@ -144,6 +153,9 @@
           },
           "term_start": {
             "text": "20 December 2020"
+          },
+          "term_end": {
+            "text": "23 August 2022"
           },
           "primeminister2": {
             "text": "James Marape"
