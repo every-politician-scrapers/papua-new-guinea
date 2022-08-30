@@ -17,7 +17,13 @@
         {
           "sentences": [
             {
-              "text": "Job Pomat (born 1960) is a Papua New guinea politician.",
+              "text": "Job Pomat, CMG (born 1960) is a Papua New Guinean politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "CMG"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Job Pomat"
