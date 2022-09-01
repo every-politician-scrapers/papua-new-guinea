@@ -66,6 +66,15 @@
                   "page": "Minister of Finance of Papua New Guinea"
                 }
               ]
+            },
+            {
+              "text": "Marape entered the 2022 elections under the banner of Pangu Party and won more seats than any other party."
+            },
+            {
+              "text": "He was therefore entitled to form the government."
+            },
+            {
+              "text": "His new government was elected unopposed by the new parliament."
             }
           ]
         }
@@ -337,6 +346,12 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
@@ -543,7 +558,10 @@
               "text": "Marape obtained in the subsequent election 101 votes as compared to 8 for Mekere Morauta."
             },
             {
-              "text": "O'Neill expected that his Cabinet would continue reshuffle on 8 November Marape replaced most of the Cabinet Ministers."
+              "text": "O'Neill expected that his Cabinet would continue unchanged."
+            },
+            {
+              "text": "However during a reshuffle on 8 November Marape replaced most of the Cabinet Ministers."
             },
             {
               "text": "O'Neill continues to be critical."
@@ -813,11 +831,44 @@
             },
             {
               "text": "He also said that the old guard had a record in which there was little to be proud of."
+            },
+            {
+              "text": "Marape entered the 2022 elections under the banner of Pangu Party and won 38 of the 115 seats declared."
+            },
+            {
+              "text": "O'Neill's PNC was the runner up with 16 seats."
+            },
+            {
+              "text": "Marape was elected unopposed as Prime Minister."
+            },
+            {
+              "text": "He was as leader of the largest party entitled to form the government and left his cabinet virtually unchanged."
+            },
+            {
+              "text": "His new government was elected unopposed by the new parliament."
             }
           ]
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
