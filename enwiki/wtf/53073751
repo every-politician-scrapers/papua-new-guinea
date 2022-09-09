@@ -254,11 +254,16 @@
             "text": "Governor-General of Papua New Guinea"
           },
           "monarch": {
-            "text": "Elizabeth II",
+            "text": "Elizabeth II Charles III",
             "links": [
               {
                 "type": "internal",
                 "page": "Elizabeth II"
+              },
+              {
+                "text": "Charles III",
+                "type": "internal",
+                "page": "Charles, King of the United Kingdom"
               }
             ]
           },
