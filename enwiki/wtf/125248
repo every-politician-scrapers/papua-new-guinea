@@ -2,9 +2,9 @@
   "title": "Charles III",
   "pageID": 125248,
   "categories": [
-    "Charles, Prince of Wales",
     "1948 births",
     "Living people",
+    "Charles, Prince of Wales",
     "20th-century British writers",
     "21st-century British writers",
     "Alumni of Aberystwyth University",
@@ -13,17 +13,19 @@
     "British environmentalists",
     "British philanthropists",
     "British princes",
+    "Heirs to the British throne",
     "Children of Elizabeth II",
     "Deified people",
     "Dukes of Cornwall",
     "Dukes of Edinburgh",
     "Dukes of Rothesay",
     "Heads of the Commonwealth",
-    "Monarchs of Australia",
+    "Heads of state of Australia",
     "Heads of state of Antigua and Barbuda",
     "Heads of state of the Bahamas",
     "Heads of state of Belize",
     "Heads of state of Canada",
+    "Heads of state of Grenada",
     "Heads of state of Jamaica",
     "Heads of state of New Zealand",
     "Heads of state of Papua New Guinea",
@@ -40,7 +42,6 @@
     "English people of Russian descent",
     "English people of Scottish descent",
     "Graduates of the Royal Air Force College Cranwell",
-    "Heirs to the British throne",
     "House of Windsor",
     "Mountbatten-Windsor family",
     "People educated at Cheam School",
@@ -49,7 +50,6 @@
     "People educated at Hill House School",
     "People from Westminster",
     "People named in the Paradise Papers",
-    "Princes of Wales",
     "Sustainability advocates",
     "Writers from London",
     "21st-century British monarchs"
@@ -65,12 +65,14 @@
               "text": "Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and 14 other Commonwealth realms.",
               "links": [
                 {
+                  "text": "King of the United Kingdom",
                   "type": "internal",
-                  "page": "King of the United Kingdom"
+                  "page": "Monarchy of the United Kingdom"
                 },
                 {
+                  "text": "Commonwealth realms",
                   "type": "internal",
-                  "page": "Commonwealth realms"
+                  "page": "Commonwealth realm"
                 }
               ],
               "formatting": {
@@ -83,7 +85,7 @@
               "text": "He acceded to the throne on 8 September 2022 upon the death of his mother, Queen Elizabeth II.",
               "links": [
                 {
-                  "text": "the death of his mother",
+                  "text": "the death",
                   "type": "internal",
                   "page": "Death of Elizabeth II"
                 },
@@ -117,10 +119,7 @@
               ]
             },
             {
-              "text": "At 73, Charles is also the oldest person ever to assume the British throne."
-            },
-            {
-              "text": "The record was previously held by William IV at age 64.",
+              "text": "At 73 years of age, Charles is also the oldest person ever to assume the British throne, a record previously held by William IV at age 64.",
               "links": [
                 {
                   "type": "internal",
@@ -172,9 +171,8 @@
               "text": "He later spent a year at the Timbertop campus of Geelong Grammar School in Victoria, Australia.",
               "links": [
                 {
-                  "text": "Timbertop",
                   "type": "internal",
-                  "page": "Timbertop (Geelong Grammar School)"
+                  "page": "Timbertop"
                 },
                 {
                   "type": "internal",
@@ -256,8 +254,9 @@
                   "page": "Wedding of Prince Charles and Camilla Parker Bowles"
                 },
                 {
+                  "text": "Camilla Parker Bowles",
                   "type": "internal",
-                  "page": "Camilla Parker Bowles"
+                  "page": "Camilla, Queen consort of the United Kingdom"
                 }
               ]
             }
@@ -269,15 +268,17 @@
               "text": "As Prince of Wales, Charles undertook official duties on behalf of Elizabeth II."
             },
             {
-              "text": "He founded the youth charity The Prince's Trust in 1976, sponsors The Prince's Charities, and is a patron, president, or a member of over 400 other charities and organisations.",
+              "text": "He founded the youth charity the Prince's Trust in 1976, sponsors the Prince's Charities, and is a patron, president, or a member of over 400 other charities and organisations.",
               "links": [
                 {
+                  "text": "the Prince's Trust",
                   "type": "internal",
-                  "page": "The Prince's Trust"
+                  "page": "the Prince's Trust"
                 },
                 {
+                  "text": "the Prince's Charities",
                   "type": "internal",
-                  "page": "The Prince's Charities"
+                  "page": "the Prince's Charities"
                 }
               ]
             },
@@ -297,7 +298,7 @@
                 {
                   "text": "modernist architecture",
                   "type": "internal",
-                  "page": "modernist architecture"
+                  "page": "Modern architecture"
                 },
                 {
                   "type": "internal",
@@ -325,7 +326,7 @@
         {
           "sentences": [
             {
-              "text": "A self-described environmentalist, Charles has supported organic farming and action to prevent climate change as the manager of the Duchy of Cornwall estates, which has earned him awards and recognition from environmental groups.",
+              "text": "An environmentalist, Charles supported organic farming and action to prevent climate change during his time as the manager of the Duchy of Cornwall estates, which has earned him awards and recognition from environmental groups.",
               "links": [
                 {
                   "text": "environmentalist",
@@ -369,12 +370,12 @@
               ]
             },
             {
-              "text": "Charles III's support for alternative medicine, including homeopathy, has been the subject of criticism.",
+              "text": "Charles's support for pseudoscience, including homeopathy, has been the subject of criticism.",
               "links": [
                 {
-                  "text": "alternative medicine",
+                  "text": "pseudoscience",
                   "type": "internal",
-                  "page": "alternative medicine"
+                  "page": "pseudoscience"
                 },
                 {
                   "text": "homeopathy",
@@ -384,11 +385,12 @@
               ]
             },
             {
-              "text": "The conduct of his charities has also attracted criticism, with The Prince's Foundation subject to an ongoing Metropolitan Police investigation into cash-for-honours allegations.",
+              "text": "The conduct of his charities has also attracted criticism, having faced allegations of offering of British citizenship to donors, and with the Prince's Foundation subject to an ongoing Metropolitan Police investigation into cash-for-honours allegations.",
               "links": [
                 {
+                  "text": "the Prince's Foundation",
                   "type": "internal",
-                  "page": "The Prince's Foundation"
+                  "page": "the Prince's Foundation"
                 },
                 {
                   "type": "internal",
@@ -413,11 +415,6 @@
           "links": []
         },
         {
-          "1": "Charles III of the United Kingdom",
-          "2": "Talk:Charles III#Requested move 8 September 2022",
-          "template": "user:rmcd bot/subject notice"
-        },
-        {
           "small": "yes",
           "template": "pp-semi-blp"
         },
@@ -430,7 +427,7 @@
           "template": "use british english"
         },
         {
-          "date": "February 2022",
+          "date": "September 2022",
           "template": "use dmy dates"
         },
         {
@@ -464,20 +461,21 @@
         },
         {
           "list": [
-            "Prince William, Duke of Cornwall and Cambridge",
+            "William, Prince of Wales",
             "Prince Harry, Duke of Sussex"
           ],
           "template": "ubl"
         },
         {
-          "template": "british royal family"
+          "list": [
+            "Bronington",
+            "M1115",
+            "6"
+          ],
+          "template": "hms"
         },
         {
-          "name": "realms",
-          "list": [
-            "The other 14 realms are: Antigua and Barbuda, Australia, The Bahamas, Belize, Canada, Grenada, Jamaica, New Zealand, Papua New Guinea, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, the Solomon Islands, and Tuvalu."
-          ],
-          "template": "efn"
+          "template": "british royal family"
         }
       ],
       "infoboxes": [
@@ -512,7 +510,7 @@
             "text": "United Kingdom"
           },
           "branch": {
-            "text": "Royal Navy\nRoyal Air Force",
+            "text": "Royal Navy\n\nRoyal Air Force",
             "links": [
               {
                 "type": "internal",
@@ -528,56 +526,28 @@
             "text": "1971–1977"
           },
           "serviceyears_label": {
-            "text": "Years of active service"
+            "text": "Active service"
           },
           "rank": {
-            "text": "Lieutenant (active service) See list",
+            "text": "See list",
             "links": [
-              {
-                "type": "internal",
-                "page": "Lieutenant"
-              },
               {
                 "text": "See list",
                 "type": "internal",
                 "page": "List of titles and honours of Charles III"
               }
             ]
-          },
-          "commands": {
-            "text": "HMS Bronington",
-            "links": [
-              {
-                "text": "HMS ''Bronington''",
-                "type": "internal",
-                "page": "HMS Bronington (M1115)"
-              }
-            ],
-            "formatting": {
-              "italic": [
-                "Bronington"
-              ]
-            }
           }
         },
         {
           "name": {
             "text": "Charles III"
           },
-          "title": {
-            "text": "Head of the Commonwealth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Head of the Commonwealth"
-              }
-            ]
-          },
           "image": {
             "text": "Charles, Prince of Wales in 2021 (cropped) (3).jpg"
           },
           "caption": {
-            "text": "Charles III, then Prince of Wales, in 2021",
+            "text": "King Charles III, then Prince of Wales, in 2021",
             "links": [
               {
                 "type": "internal",
@@ -586,14 +556,15 @@
             ]
           },
           "alt": {
-            "text": "A photograph of King Charles (as Prince Charles) aged 73"
+            "text": "A photograph of King Charles III (as Prince Charles) aged 73"
           },
           "succession": {
             "text": "King of the United Kingdom and the other Commonwealth realms",
             "links": [
               {
+                "text": "King of the United Kingdom",
                 "type": "internal",
-                "page": "King of the United Kingdom"
+                "page": "Monarchy of the United Kingdom"
               },
               {
                 "text": "Commonwealth realms",
@@ -604,6 +575,15 @@
           },
           "reign": {
             "text": "8 September 2022present"
+          },
+          "predecessor": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
           },
           "cor-type": {
             "text": "Coronation",
@@ -616,34 +596,19 @@
             ]
           },
           "coronation": {
-            "text": "To be announced",
-            "links": [
-              {
-                "type": "internal",
-                "page": "To be announced"
-              }
-            ],
+            "text": "Date to be announced",
             "formatting": {
               "italic": [
-                "To be announced"
+                "Date to be announced"
               ]
             }
           },
-          "predecessor": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
           "successor": {
-            "text": "Prince William, Duke of Cornwall and Cambridge",
+            "text": "William, Prince of Wales",
             "links": [
               {
                 "type": "internal",
-                "page": "Prince William, Duke of Cornwall and Cambridge"
+                "page": "William, Prince of Wales"
               }
             ]
           },
@@ -678,7 +643,7 @@
             "text": "#Issue"
           },
           "issue": {
-            "text": "Prince William, Duke of Cornwall and Cambridge\n\nPrince Harry, Duke of Sussex"
+            "text": "William, Prince of Wales\n\nPrince Harry, Duke of Sussex"
           },
           "full name": {
             "text": "Charles Philip Arthur George"
@@ -713,6 +678,15 @@
           },
           "signature": {
             "text": "King Charles III autograph.svg"
+          },
+          "religion": {
+            "text": "Anglicanism",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anglicanism"
+              }
+            ]
           }
         }
       ],
@@ -727,12 +701,6 @@
           "archive-date": "15 February 2009",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "title": "Profession reacts to Prince Charles' 10 design principles",
@@ -931,6 +899,14 @@
             "In addition to his active service listed here, Charles holds ranks and honorary appointments in the armed forces of Australia, Canada, New Zealand and Papua New Guinea as well as the United Kingdom."
           ],
           "template": "refn"
+        },
+        {
+          "list": [
+            "The other 14 realms are: Antigua and Barbuda, Australia, The Bahamas, Belize, Canada, Grenada, Jamaica, New Zealand, Papua New Guinea, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, the Solomon Islands, and Tuvalu."
+          ],
+          "group": "fn",
+          "name": "realms",
+          "template": "refn"
         }
       ]
     },
@@ -944,7 +920,7 @@
         {
           "sentences": [
             {
-              "text": "Charles was born in Buckingham Palace on 14 November 1948, during the reign of his maternal grandfather George VI, as the first child of Princess Elizabeth, Duchess of Edinburgh, and Philip, Duke of Edinburgh.",
+              "text": "Charles was born in Buckingham Palace on 14 November 1948 at 9:14 p.m., during the reign of his maternal grandfather George VI, as the first child of Princess Elizabeth, Duchess of Edinburgh, and Philip, Duke of Edinburgh.",
               "links": [
                 {
                   "type": "internal",
@@ -1032,12 +1008,27 @@
         {
           "sentences": [
             {
-              "text": "As was customary for upper-class children at the time, a governess, Catherine Peebles, was appointed and undertook his education between the ages of five and eight.",
+              "text": "As was customary for upper-class children at the time, a governess, Catherine Peebles, was appointed to be responsible for early education at Buckingham Palace for him and his younger siblings, Anne, Andrew, and Edward.",
               "links": [
                 {
                   "text": "governess",
                   "type": "internal",
                   "page": "governess"
+                },
+                {
+                  "text": "Anne",
+                  "type": "internal",
+                  "page": "Anne, Princess Royal"
+                },
+                {
+                  "text": "Andrew",
+                  "type": "internal",
+                  "page": "Prince Andrew, Duke of York"
+                },
+                {
+                  "text": "Edward",
+                  "type": "internal",
+                  "page": "Prince Edward, Earl of Wessex"
                 }
               ]
             },
@@ -1120,9 +1111,8 @@
               "text": "He spent two terms in 1966 at the Timbertop campus of Geelong Grammar School in Victoria, Australia, during which time he visited Papua New Guinea on a school trip with his history tutor, Michael Collins Persse.",
               "links": [
                 {
-                  "text": "Timbertop",
                   "type": "internal",
-                  "page": "Timbertop (Geelong Grammar School)"
+                  "page": "Timbertop"
                 },
                 {
                   "type": "internal",
@@ -1143,10 +1133,10 @@
               "text": "In 1973, Charles described his time at Timbertop as the most enjoyable part of his whole education."
             },
             {
-              "text": "Upon his return to Gordonstoun, Charles emulated his father in becoming Head Boy.",
+              "text": "Upon his return to Gordonstoun, Charles emulated his father in becoming head boy.",
               "links": [
                 {
-                  "text": "Head Boy",
+                  "text": "head boy",
                   "type": "internal",
                   "page": "Head girl and head boy"
                 }
@@ -1325,6 +1315,12 @@
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "url": "https://www.rct.uk/collection/themes/exhibitions/hrh-the-prince-of-wales-an-exhibition-to-celebrate-his-sixtieth-0/the",
           "title": "The Christening of Prince Charles",
@@ -1544,16 +1540,17 @@
               "text": "He spoke again in 1975."
             },
             {
-              "text": "Charles began to take on more public duties, founding The Prince's Trust in 1976, and travelling to the United States in 1981.",
+              "text": "Charles began to take on more public duties, founding the Prince's Trust in 1976, and travelling to the United States in 1981.",
               "links": [
                 {
+                  "text": "the Prince's Trust",
                   "type": "internal",
-                  "page": "The Prince's Trust"
+                  "page": "the Prince's Trust"
                 }
               ]
             },
             {
-              "text": "In the mid-1970s, the prince expressed an interest in serving as Governor-General of Australia, at the suggestion of Australian prime minister Malcolm Fraser, but because of a lack of public enthusiasm nothing came of the proposal.",
+              "text": "In the mid-1970s, Charles expressed an interest in serving as Governor-General of Australia, at the suggestion of Australian prime minister Malcolm Fraser, but because of a lack of public enthusiasm nothing came of the proposal.",
               "links": [
                 {
                   "type": "internal",
@@ -1576,7 +1573,7 @@
           "file": "File:Richard_Nixon_with_Prince_Charles_(cropped).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Richard_Nixon_with_Prince_Charles_(cropped).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Richard_Nixon_with_Prince_Charles_(cropped).jpg",
-          "caption": "The Prince of Wales met US President Richard Nixon in the Oval Office on an official visit to the United States in July 1970.",
+          "caption": "Charles met US President Richard Nixon in the Oval Office on an official visit to the United States in July 1970.",
           "links": []
         }
       ],
@@ -1988,13 +1985,6 @@
         {
           "sentences": [
             {
-              "text": "Charles regularly traveled abroad on behalf of the United Kingdom; he has been regarded as an effective advocate of the country."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
               "text": "In 1970, Charles visited Bermuda to mark the Parliament of Bermuda's 350th anniversary.",
               "links": [
                 {
@@ -2246,7 +2236,7 @@
         {
           "sentences": [
             {
-              "text": "Letters sent by Prince Charles to government ministers during 2004 and 2005 – the so-called black spider memos – presented potential embarrassment following a challenge by The Guardian newspaper to release the letters under the Freedom of Information Act 2000.",
+              "text": "Letters sent by Charles to government ministers during 2004 and 2005 – the so-called black spider memos – presented potential embarrassment following a challenge by The Guardian newspaper to release the letters under the Freedom of Information Act 2000.",
               "links": [
                 {
                   "text": "black spider memos",
@@ -2265,7 +2255,7 @@
               }
             },
             {
-              "text": "In March 2015, the Supreme Court of the United Kingdom decided that the Prince's letters must be released.",
+              "text": "In March 2015, the Supreme Court of the United Kingdom decided that Charles's letters must be released.",
               "links": [
                 {
                   "type": "internal",
@@ -2289,7 +2279,7 @@
               "text": "The memos were variously described in the press as \"underwhelming\" and \"harmless\" and that their release had \"backfired on those who seek to belittle him\", with reaction from the public also supportive."
             },
             {
-              "text": "In 2015, it was revealed that Prince Charles had access to confidential UK cabinet papers."
+              "text": "In 2015, it was revealed that Charles had access to confidential UK cabinet papers."
             }
           ]
         },
@@ -2299,7 +2289,7 @@
         {
           "sentences": [
             {
-              "text": "The Prince of Wales and the Duchess of Cornwall made their first joint trip to the Republic of Ireland in May 2015."
+              "text": "Charles and the Duchess of Cornwall made their first joint trip to the Republic of Ireland in May 2015."
             },
             {
               "text": "The trip was called an important step in \"promoting peace and reconciliation\" by the British Embassy."
@@ -2327,7 +2317,7 @@
               ]
             },
             {
-              "text": "In the run up to the Prince's visit, two Irish republican dissidents were arrested for planning a bomb attack.",
+              "text": "In the run up to Charles's visit, two Irish republican dissidents were arrested for planning a bomb attack.",
               "links": [
                 {
                   "type": "internal",
@@ -2419,7 +2409,7 @@
               ]
             },
             {
-              "text": "According to Charles's biographer Catherine Mayer, a Time magazine journalist who claims to have interviewed several sources from Prince Charles's inner circle, he \"doesn't like being used to market weaponry\" in deals with Saudi Arabia and other Arab Gulf states.",
+              "text": "According to Charles's biographer Catherine Mayer, a Time magazine journalist who claims to have interviewed several sources from Charles's inner circle, he \"doesn't like being used to market weaponry\" in deals with Saudi Arabia and other Arab Gulf states.",
               "formatting": {
                 "italic": [
                   "Time"
@@ -2430,7 +2420,7 @@
               "text": "According to Mayer, Charles has only raised his objections to being used to sell weapons abroad in private."
             },
             {
-              "text": "Commonwealth heads of government decided at their 2018 meeting that the Prince of Wales will be the next Head of the Commonwealth after the Queen.",
+              "text": "Commonwealth heads of government decided at their 2018 meeting that Charles would be the next Head of the Commonwealth after the Queen.",
               "links": [
                 {
                   "text": "2018 meeting",
@@ -2473,7 +2463,7 @@
               ]
             },
             {
-              "text": "The same month, at the request of the British government, the Prince of Wales and the Duchess of Cornwall went on an official tour to Cuba, making them the first British royalty to visit the country."
+              "text": "The same month, at the request of the British government, Charles and Camilla went on an official tour to Cuba, making them the first British royalty to visit the country."
             },
             {
               "text": "The tour was seen as an effort to form a closer relationship between the UK and Cuba."
@@ -2483,7 +2473,7 @@
         {
           "sentences": [
             {
-              "text": "In January 2020, the Prince of Wales became the first British patron of the International Rescue Committee, a charity which aims to help refugees and those displaced by war, persecution, or natural disaster.",
+              "text": "In January 2020, Charles became the first British patron of the International Rescue Committee, a charity which aims to help refugees and those displaced by war, persecution, or natural disaster.",
               "links": [
                 {
                   "type": "internal",
@@ -2536,7 +2526,7 @@
               ]
             },
             {
-              "text": "Camilla was also tested, but returned a negative result."
+              "text": "Camilla was also tested but returned a negative result."
             },
             {
               "text": "Clarence House stated that he showed \"mild symptoms\" but \"remains in good health\".",
@@ -2578,7 +2568,7 @@
         {
           "sentences": [
             {
-              "text": "In October 2020, a letter sent by Prince Charles to Governor-General Sir John Kerr after the 1975 dismissal from office of the Australian Prime Minister Gough Whitlam was released as a part of the collection of palace letters regarding the 1975 Australian constitutional crisis.",
+              "text": "In October 2020, a letter sent by Charles to Governor-General Sir John Kerr after the 1975 dismissal from office of the Australian Prime Minister Gough Whitlam was released as a part of the collection of palace letters regarding the 1975 Australian constitutional crisis.",
               "links": [
                 {
                   "text": "Governor-General",
@@ -2633,7 +2623,7 @@
               ]
             },
             {
-              "text": "The Prince was invited by Prime Minister Mia Mottley as the future head of the Commonwealth, and it was the first time that a member of the royal family attended the transition of a realm to a republic.",
+              "text": "Charles was invited by Prime Minister Mia Mottley as the future head of the Commonwealth, and it was the first time that a member of the royal family attended the transition of a realm to a republic.",
               "links": [
                 {
                   "type": "internal",
@@ -2685,7 +2675,7 @@
               ]
             },
             {
-              "text": "In June 2022, The Times reported that Prince Charles had privately described the UK Government's Rwanda asylum plan as \"appalling\" and feared that it would overshadow the June 23 Commonwealth Heads of Government meeting in Rwanda, where the Prince represented the Queen.",
+              "text": "In June 2022, The Times reported that Charles had privately described the UK Government's Rwanda asylum plan as \"appalling\" and feared that it would overshadow the June Commonwealth Heads of Government meeting in Rwanda, where Charles represented the Queen.",
               "links": [
                 {
                   "type": "internal",
@@ -2739,7 +2729,7 @@
           "file": "File:Barbados_Independence_Republic_Night_(51718724758).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Barbados_Independence_Republic_Night_(51718724758).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Barbados_Independence_Republic_Night_(51718724758).jpg",
-          "caption": "The Prince of Wales delivering a speech in Bridgetown, after Barbados became a republic, November 2021",
+          "caption": "Charles delivering a speech in Bridgetown, after Barbados became a republic, November 2021",
           "links": []
         },
         {
@@ -3772,20 +3762,22 @@
         {
           "sentences": [
             {
-              "text": "Since founding The Prince's Trust in 1976, Charles has established 16 more charitable organisations and now serves as president of all of those.",
+              "text": "Since founding the Prince's Trust in 1976, Charles has established 16 more charitable organisations and now serves as president of all of those.",
               "links": [
                 {
+                  "text": "the Prince's Trust",
                   "type": "internal",
-                  "page": "The Prince's Trust"
+                  "page": "the Prince's Trust"
                 }
               ]
             },
             {
-              "text": "Together, these form a loose alliance called The Prince's Charities, which describes itself as \"the largest multi-cause charitable enterprise in the United Kingdom, raising over £100 million annually ... [and is] active across a broad range of areas including education and young people, environmental sustainability, the built environment, responsible business and enterprise and international.\"",
+              "text": "Together, these form a loose alliance called the Prince's Charities, which describes itself as \"the largest multi-cause charitable enterprise in the United Kingdom, raising over £100 million annually ... [and is] active across a broad range of areas including education and young people, environmental sustainability, the built environment, responsible business and enterprise and international.\"",
               "links": [
                 {
+                  "text": "the Prince's Charities",
                   "type": "internal",
-                  "page": "The Prince's Charities"
+                  "page": "the Prince's Charities"
                 }
               ]
             }
@@ -3794,10 +3786,10 @@
         {
           "sentences": [
             {
-              "text": "In 2010, The Prince's Charities Canada was established in a similar fashion to its namesake in the UK.",
+              "text": "In 2010, the Prince's Charities Canada was established in a similar fashion to its namesake in the UK.",
               "links": [
                 {
-                  "text": "The Prince's Charities Canada",
+                  "text": "the Prince's Charities Canada",
                   "type": "internal",
                   "page": "The Prince's Charities",
                   "anchor": "The Prince's Trust Canada (formerly The Prince's Charities Canada)"
@@ -3837,10 +3829,10 @@
               ]
             },
             {
-              "text": "Charles has also set up The Prince's Charities Australia, which is based in Melbourne, Victoria.",
+              "text": "Charles has also set up the Prince's Charities Australia, which is based in Melbourne, Victoria.",
               "links": [
                 {
-                  "text": "The Prince's Charities Australia",
+                  "text": "the Prince's Charities Australia",
                   "type": "internal",
                   "page": "The Prince's Charities",
                   "anchor": "The Prince's Trust Canada (formerly The Prince's Charities Canada)"
@@ -3852,7 +3844,7 @@
               ]
             },
             {
-              "text": "The Prince's Charities Australia is to provide a coordinating presence for the Prince of Wales's Australian and international charitable endeavours."
+              "text": "The Prince's Charities Australia is to provide a coordinating presence for Charles's Australian and international charitable endeavours."
             }
           ]
         },
@@ -3957,7 +3949,7 @@
         {
           "sentences": [
             {
-              "text": "The Prince of Wales has openly expressed his views on architecture and urban planning; he fostered the advancement of New Classical Architecture and asserted that he \"care[s] deeply about issues such as the environment, architecture, inner-city renewal, and the quality of life.\"",
+              "text": "Charles has openly expressed his views on architecture and urban planning; he fostered the advancement of New Classical Architecture and asserted that he \"care[s] deeply about issues such as the environment, architecture, inner-city renewal, and the quality of life.\"",
               "links": [
                 {
                   "text": "urban planning",
@@ -4003,15 +3995,17 @@
               }
             },
             {
-              "text": "Two of his charities (The Prince's Regeneration Trust and The Prince's Foundation for Building Community, which were later merged into one charity) promote his views, and the village of Poundbury was built on land owned by the Duchy of Cornwall to a master plan by Léon Krier under the guidance of Prince Charles and in line with his philosophy.",
+              "text": "Two of his charities (the Prince's Regeneration Trust and the Prince's Foundation for Building Community, which were later merged into one charity) promote his views, and the village of Poundbury was built on land owned by the Duchy of Cornwall to a master plan by Léon Krier under the guidance of Charles and in line with his philosophy.",
               "links": [
                 {
+                  "text": "the Prince's Regeneration Trust",
                   "type": "internal",
-                  "page": "The Prince's Regeneration Trust"
+                  "page": "the Prince's Regeneration Trust"
                 },
                 {
+                  "text": "the Prince's Foundation for Building Community",
                   "type": "internal",
-                  "page": "The Prince's Foundation for Building Community"
+                  "page": "the Prince's Foundation for Building Community"
                 },
                 {
                   "type": "internal",
@@ -4054,7 +4048,7 @@
               ]
             },
             {
-              "text": "In 1999, the Prince agreed to the use of his title for the Prince of Wales Prize for Municipal Heritage Leadership, awarded by the Heritage Canada Foundation to municipal governments that have shown sustained commitment to the conservation of historic places.",
+              "text": "In 1999, Charles agreed to the use of his title for the Prince of Wales Prize for Municipal Heritage Leadership, awarded by the Heritage Canada Foundation to municipal governments that have shown sustained commitment to the conservation of historic places.",
               "links": [
                 {
                   "type": "internal",
@@ -4088,7 +4082,7 @@
         {
           "sentences": [
             {
-              "text": "From 1997, the Prince of Wales has visited Romania to view and highlight the destruction of Orthodox monasteries and Transylvanian Saxon villages during the Communist rule of Nicolae Ceaușescu.",
+              "text": "From 1997, Charles has visited Romania to view and highlight the destruction of Orthodox monasteries and Transylvanian Saxon villages during the Communist rule of Nicolae Ceaușescu.",
               "links": [
                 {
                   "text": "Transylvanian Saxon",
@@ -4191,7 +4185,7 @@
               ]
             },
             {
-              "text": "Subsequently, Rogers was removed from the project and The Prince's Foundation for the Built Environment was appointed to propose an alternative."
+              "text": "Subsequently, Rogers was removed from the project and the Prince's Foundation for the Built Environment was appointed to propose an alternative."
             },
             {
               "text": "Rogers claimed the Prince had also intervened to block his designs for the Royal Opera House and Paternoster Square, and condemned Charles's actions as \"an abuse of power\" and \"unconstitutional\".",
@@ -4272,11 +4266,12 @@
         {
           "sentences": [
             {
-              "text": "In 2010, The Prince's Foundation for the Built Environment decided to help reconstruct and redesign buildings in Port-au-Prince, Haiti after the capital was destroyed by the 2010 Haiti earthquake.",
+              "text": "In 2010, the Prince's Foundation for the Built Environment decided to help reconstruct and redesign buildings in Port-au-Prince, Haiti after the capital was destroyed by the 2010 Haiti earthquake.",
               "links": [
                 {
+                  "text": "the Prince's Foundation for the Built Environment",
                   "type": "internal",
-                  "page": "The Prince's Foundation for the Built Environment"
+                  "page": "the Prince's Foundation for the Built Environment"
                 },
                 {
                   "type": "internal",
@@ -4336,7 +4331,7 @@
           "file": "File:Prince_Charles_2000.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Prince_Charles_2000.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Prince_Charles_2000.jpg",
-          "caption": "The Prince of Wales at the newly opened At-Bristol, 14 June 2000",
+          "caption": "Charles at the newly opened At-Bristol, 14 June 2000",
           "links": []
         }
       ],
@@ -4645,7 +4640,7 @@
               ]
             },
             {
-              "text": "The Prince of Wales is also Permanent Master of the Worshipful Company of Shipwrights, a Freeman of the Worshipful Company of Drapers, an Honorary Freeman of the Worshipful Company of Musicians, an Honorary Member of the Court of Assistants of the Worshipful Company of Goldsmiths, and a Royal Liveryman of the Worshipful Company of Gardeners.",
+              "text": "Charles is also Permanent Master of the Worshipful Company of Shipwrights, a Freeman of the Worshipful Company of Drapers, an Honorary Freeman of the Worshipful Company of Musicians, an Honorary Member of the Court of Assistants of the Worshipful Company of Goldsmiths, and a Royal Liveryman of the Worshipful Company of Gardeners.",
               "links": [
                 {
                   "type": "internal",
@@ -4697,7 +4692,14 @@
               "text": "Since the 1970s, Charles has promoted environmental awareness."
             },
             {
-              "text": "At the age of 21, he delivered his first speech on environmental issues in his capacity as the chairman of the Welsh Countryside Committee."
+              "text": "At the age of 21, he delivered his first speech on environmental issues in his capacity as the chairman of the Welsh Countryside Committee.",
+              "links": [
+                {
+                  "text": "environmental issues",
+                  "type": "internal",
+                  "page": "Environmental issues in the United Kingdom"
+                }
+              ]
             },
             {
               "text": "In order to decrease his carbon footprint, he has used biomass boilers for heating Birkhall, where he has also installed a hydroelectric turbine in the river beside the estate.",
@@ -4747,7 +4749,7 @@
         {
           "sentences": [
             {
-              "text": "Upon moving into Highgrove House, Charles developed an interest in organic farming, which culminated in the 1990 launch of his own organic brand, Duchy Originals, which now sells more than 200 different sustainably produced products, from food to garden furniture; the profits (over £6 million by 2010) are donated to The Prince's Charities.",
+              "text": "Upon moving into Highgrove House, Charles developed an interest in organic farming, which culminated in the 1990 launch of his own organic brand, Duchy Originals, which now sells more than 200 different sustainably produced products, from food to garden furniture; the profits (over £6 million by 2010) are donated to the Prince's Charities.",
               "links": [
                 {
                   "type": "internal",
@@ -4785,7 +4787,7 @@
               }
             },
             {
-              "text": "Along similar lines, the Prince of Wales became involved with farming and various industries within it, regularly meeting with farmers to discuss their trade."
+              "text": "Along similar lines, Charles became involved with farming and various industries within it, regularly meeting with farmers to discuss their trade."
             },
             {
               "text": "Although the 2001 foot-and-mouth epidemic in England prevented Charles from visiting organic farms in Saskatchewan, he met the farmers at Assiniboia town hall.",
@@ -4885,11 +4887,12 @@
               ]
             },
             {
-              "text": "In 2007, Charles launched The Prince's May Day Network, which encourages businesses to take action on climate change.",
+              "text": "In 2007, Charles launched the Prince's May Day Network, which encourages businesses to take action on climate change.",
               "links": [
                 {
+                  "text": "the Prince's May Day Network",
                   "type": "internal",
-                  "page": "The Prince's May Day Network"
+                  "page": "the Prince's May Day Network"
                 },
                 {
                   "text": "climate change",
@@ -4904,6 +4907,11 @@
                 {
                   "type": "internal",
                   "page": "European Parliament"
+                },
+                {
+                  "text": "climate change",
+                  "type": "internal",
+                  "page": "Climate change in Europe"
                 }
               ]
             },
@@ -4921,10 +4929,17 @@
               ]
             },
             {
-              "text": "In a speech to the Low Carbon Prosperity Summit in a European Parliament chamber on 9 February 2011, Charles said that climate change sceptics are playing \"a reckless game of roulette\" with the planet's future and are having a \"corrosive effect\" on public opinion."
+              "text": "In a speech to the Low Carbon Prosperity Summit in a European Parliament chamber on 9 February 2011, Charles said that climate change sceptics are playing \"a reckless game of roulette\" with the planet's future and are having a \"corrosive effect\" on public opinion.",
+              "links": [
+                {
+                  "text": "climate change sceptics",
+                  "type": "internal",
+                  "page": "climate change sceptics"
+                }
+              ]
             },
             {
-              "text": "He also articulated the need to protect fisheries and the Amazon rain forest, and to make low-carbon emissions affordable and competitive."
+              "text": "He also articulated the need to protect fisheries and the Amazon rainforest, and to make low-carbon emissions affordable and competitive."
             },
             {
               "text": "In 2011, Charles received the Royal Society for the Protection of Birds Medal for his engagement with the environment, such as the conservation of rainforests.",
@@ -4947,7 +4962,7 @@
         {
           "sentences": [
             {
-              "text": "On 27 August 2012, the Prince of Wales addressed the International Union for Conservation of Nature – World Conservation Congress, supporting the view that grazing animals are needed to keep soils and grassland productive:"
+              "text": "On 27 August 2012, Charles addressed the International Union for Conservation of Nature – World Conservation Congress, supporting the view that grazing animals are needed to keep soils and grassland productive:"
             }
           ]
         },
@@ -5023,7 +5038,7 @@
               ]
             },
             {
-              "text": "In August 2019, it was announced that the Prince of Wales had collaborated with British fashion designers Vin and Omi to produce a line of clothing made out of nettles found in his Highgrove estate.",
+              "text": "In August 2019, it was announced that Charles had collaborated with British fashion designers Vin and Omi to produce a line of clothing made out of nettles found in his Highgrove estate.",
               "links": [
                 {
                   "text": "nettles",
@@ -5039,7 +5054,7 @@
               "text": "The Highgrove plant waste was also used to create the jewellery worn with the dresses."
             },
             {
-              "text": "In September 2020, the Prince of Wales launched RE:TV, an online platform featuring short films and articles on issues such as climate change and sustainability."
+              "text": "In September 2020, Charles launched RE:TV, an online platform featuring short films and articles on issues such as climate change and sustainability."
             },
             {
               "text": "He serves as the platform's editor-in-chief."
@@ -5085,7 +5100,7 @@
               ]
             },
             {
-              "text": "In May 2020, the Prince of Wales's Sustainable Markets Initiative and the World Economic Forum launched the Great Reset project, a five-point plan concerned with enhancing sustainable economic growth following the global recession caused by the COVID-19 pandemic.",
+              "text": "In May 2020, his Sustainable Markets Initiative and the World Economic Forum launched the Great Reset project, a five-point plan concerned with enhancing sustainable economic growth following the global recession caused by the COVID-19 pandemic.",
               "links": [
                 {
                   "type": "internal",
@@ -5180,7 +5195,7 @@
               "text": "In his speech at the opening ceremony for COP26, he repeated his sentiments from the previous year, stating that \"a vast military-style campaign\" was needed \"to marshal the strength of the global private sector\" for tackling climate change."
             },
             {
-              "text": "In 2021, Prince Charles spoke to the BBC about the environment and said two days a week he eats no meat nor fish and one day a week he eats no dairy products.",
+              "text": "In 2021, Charles spoke to the BBC about the environment and said two days a week he eats no meat nor fish and one day a week he eats no dairy products.",
               "links": [
                 {
                   "type": "internal",
@@ -5222,7 +5237,14 @@
               ]
             },
             {
-              "text": "In September 2022, Charles hosted the Global Allergy Symposium at Dumfries House with the Natasha Allergy Research Foundation and 16 allergy experts from around the world to discuss factors behind new emerging allergies, including biodiversity loss and climate change."
+              "text": "In September 2022, Charles hosted the Global Allergy Symposium at Dumfries House with the Natasha Allergy Research Foundation and 16 allergy experts from around the world to discuss factors behind new emerging allergies, including biodiversity loss and climate change.",
+              "links": [
+                {
+                  "text": "biodiversity loss",
+                  "type": "internal",
+                  "page": "biodiversity loss"
+                }
+              ]
             }
           ]
         }
@@ -5232,14 +5254,14 @@
           "file": "File:FEMA_-_18574_-_Photograph_by_Robert_Kaufmann_taken_on_11-05-2005_in_Louisiana.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/FEMA_-_18574_-_Photograph_by_Robert_Kaufmann_taken_on_11-05-2005_in_Louisiana.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/FEMA_-_18574_-_Photograph_by_Robert_Kaufmann_taken_on_11-05-2005_in_Louisiana.jpg",
-          "caption": "The Prince of Wales and the Duchess of Cornwall meeting Federal Emergency Management Agency officials in Louisiana, as they arrive to tour the damage created by Hurricane Katrina, November 2005",
+          "caption": "Charles and Camilla meeting Federal Emergency Management Agency officials in Louisiana, as they arrive to tour the damage created by Hurricane Katrina, November 2005",
           "links": []
         },
         {
           "file": "File:LPAA_-_Forest_Focus_Day_-_Participation_du_Prince_Charles_de_l'Angleterre,_le_Roi_de_Suède,_Manuel_Pulgar-Vidal,_Izabella_Teixeira_(23443532035).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/LPAA_-_Forest_Focus_Day_-_Participation_du_Prince_Charles_de_l'Angleterre%2C_le_Roi_de_Su%C3%A8de%2C_Manuel_Pulgar-Vidal%2C_Izabella_Teixeira_(23443532035).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/LPAA_-_Forest_Focus_Day_-_Participation_du_Prince_Charles_de_l'Angleterre%2C_le_Roi_de_Su%C3%A8de%2C_Manuel_Pulgar-Vidal%2C_Izabella_Teixeira_(23443532035).jpg",
-          "caption": "The Prince of Wales at COP21 in 2015",
+          "caption": "Charles at COP21 in 2015",
           "links": []
         }
       ],
@@ -5881,7 +5903,7 @@
         {
           "sentences": [
             {
-              "text": "The Prince's Duchy Originals produce a variety of complementary medicinal products including a \"Detox Tincture\" that Edzard Ernst has denounced as \"financially exploiting the vulnerable\" and \"outright quackery\".",
+              "text": "Charles's Duchy Originals produce a variety of complementary medicinal products including a \"Detox Tincture\" that Edzard Ernst has denounced as \"financially exploiting the vulnerable\" and \"outright quackery\".",
               "links": [
                 {
                   "text": "Duchy Originals",
@@ -5906,7 +5928,7 @@
               ]
             },
             {
-              "text": "The Prince personally wrote at least seven letters to the Medicines and Healthcare products Regulatory Agency (MHRA) shortly before they relaxed the rules governing labelling of such herbal products, a move that has been widely condemned by scientists and medical bodies.",
+              "text": "Charles personally wrote at least seven letters to the Medicines and Healthcare products Regulatory Agency (MHRA) shortly before they relaxed the rules governing labelling of such herbal products, a move that has been widely condemned by scientists and medical bodies.",
               "links": [
                 {
                   "type": "internal",
@@ -5973,7 +5995,7 @@
           "file": "File:Duchess_of_Cornwall,_Prince_of_Wales_-_NIH.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Duchess_of_Cornwall%2C_Prince_of_Wales_-_NIH.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Duchess_of_Cornwall%2C_Prince_of_Wales_-_NIH.jpg",
-          "caption": "The Prince of Wales and the Duchess of Cornwall with NIH Director Elias Zerhouni and Surgeon-General Richard Carmona, November 2005",
+          "caption": "Charles and Camilla with NIH Director Elias Zerhouni and Surgeon-General Richard Carmona, November 2005",
           "links": []
         }
       ],
@@ -6315,7 +6337,7 @@
         {
           "sentences": [
             {
-              "text": "Prince Charles was confirmed at age 16 by Archbishop of Canterbury Michael Ramsey at Easter 1965, in St George's Chapel, Windsor Castle.",
+              "text": "Charles was confirmed at age 16 by Archbishop of Canterbury Michael Ramsey at Easter 1965, in St George's Chapel, Windsor Castle.",
               "links": [
                 {
                   "text": "confirmed",
@@ -6360,7 +6382,7 @@
               ]
             },
             {
-              "text": "Charles has visited (amid some secrecy) Orthodox monasteries several times on Mount Athos as well as in Romania.",
+              "text": "Charles has visited (amid some secrecy) Orthodox monasteries several times on Mount Athos as well as in Romania and Serbia.",
               "links": [
                 {
                   "text": "Orthodox",
@@ -6404,7 +6426,7 @@
               ]
             },
             {
-              "text": "From van der Post, Prince Charles developed a focus on philosophy and interest in other religions."
+              "text": "From van der Post, Charles developed a focus on philosophy and interest in other religions."
             },
             {
               "text": "Charles expressed his philosophical views in his 2010 book, Harmony: A New Way of Looking at Our World,  which won a Nautilus Book Award.",
@@ -6516,6 +6538,15 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Princ Čarls u manastiru Kovilj",
+          "url": "https://www.ekspres.net/drustvo/princ-carls-u-manastiru-kovilj",
+          "access-date": "2022-09-09",
+          "website": "Ekspres.net",
+          "language": "sr-Latn",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "About OCIS",
@@ -6709,6 +6740,9 @@
           "type": "web"
         },
         {
+          "first1": "Tom",
+          "last1": "Barnes",
+          "date": "2 January 2019",
           "title": "Almost half of British public want Prince Charles to give throne to William upon Queen's death, survey finds",
           "url": "https://www.independent.co.uk/news/uk/home-news/prince-charles-heir-throne-abdicated-william-queen-dies-death-next-in-line-public-opinion-a8704316.html",
           "website": "The Independent",
@@ -6746,7 +6780,7 @@
               ]
             },
             {
-              "text": "Holding the titles Prince of Wales, Duke of Cornwall, and Duke of Rothesay, Charles was the longest-serving British heir apparent, surpassing Edward VII's record on 20 April 2011.",
+              "text": "Charles was the longest-serving British heir apparent, surpassing Edward VII's record on 20 April 2011.",
               "links": [
                 {
                   "type": "internal",
@@ -6801,7 +6835,7 @@
         {
           "sentences": [
             {
-              "text": "There had been speculation as to what regnal name the prince would choose upon his succession to the throne.",
+              "text": "There had been speculation as to what regnal name Charles would choose upon his succession to the throne.",
               "links": [
                 {
                   "text": "regnal name",
@@ -6858,20 +6892,34 @@
               "text": "In 2005 Charles's office said that no decision had yet been made."
             },
             {
-              "text": "In an announcement following the death of Queen Elizabeth II, Prime Minister Liz Truss referred to Charles as King Charles III, the first official usage of that name.",
+              "text": "Following the death of Queen Elizabeth II, Clarence House confirmed that Charles would use the regnal name \"Charles III\".",
               "links": [
                 {
+                  "text": "death of Queen Elizabeth II",
                   "type": "internal",
-                  "page": "Liz Truss"
-                }
-              ]
-            },
-            {
-              "text": "Shortly afterwards Clarence House confirmed that he would use the regnal name \"Charles III\".",
-              "links": [
+                  "page": "death of Queen Elizabeth II"
+                },
                 {
                   "type": "internal",
                   "page": "Clarence House"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The King gave his first speech to the nation on 9 September at 6 p.m. BST, in which he mourned his late mother and proclaimed his son William the Prince of Wales.",
+              "links": [
+                {
+                  "text": "William",
+                  "type": "internal",
+                  "page": "William, Prince of Wales"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prince of Wales"
                 }
               ]
             }
@@ -6931,22 +6979,21 @@
           "type": "news"
         },
         {
-          "url": "https://www.bbc.com/news/uk-61585886",
-          "title": "Queen Elizabeth II has died",
-          "publisher": "BBC News",
           "date": "8 September 2022",
+          "title": "Britain's new monarch to be known as King Charles III",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/uk/britains-new-monarch-be-known-king-charles-iii-2022-09-08/",
           "access-date": "8 September 2022",
           "template": "citation",
           "type": "news"
         },
         {
-          "date": "September 8, 2022",
-          "title": "Britain's new monarch to be known as King Charles III",
-          "work": "Reuters",
-          "url": "https://www.reuters.com/world/uk/britains-new-monarch-be-known-king-charles-iii-2022-09-08/",
-          "access-date": "September 8, 2022",
+          "date": "9 September 2022",
+          "work": "BBC.com",
+          "url": "https://www.bbc.com/news/live/uk-62842089",
+          "title": "King Charles III pays tribute to his ‘darling mama’ in first address",
           "template": "citation",
-          "type": "news"
+          "type": "web"
         },
         {
           "last1": "Wheatstone",
@@ -7004,7 +7051,7 @@
         {
           "sentences": [
             {
-              "text": "Charles's girlfriends included Georgiana Russell, the daughter of Sir John Russell, who was British ambassador to Spain; Lady Jane Wellesley, the daughter of the 8th Duke of Wellington; Davina Sheffield; Lady Sarah Spencer; and Camilla Shand, who later became his second wife and Duchess of Cornwall.",
+              "text": "Charles's girlfriends included Georgiana Russell, the daughter of Sir John Russell, who was British ambassador to Spain; Lady Jane Wellesley, the daughter of the 8th Duke of Wellington; Davina Sheffield; Lady Sarah Spencer; and Camilla Shand, who later became his second wife.",
               "links": [
                 {
                   "text": "Sir John Russell",
@@ -7084,11 +7131,17 @@
               ]
             },
             {
-              "text": "However, in August 1979, before Charles would depart alone for India, Mountbatten was killed by the IRA.",
+              "text": "However, in August 1979, before Charles would depart alone for India, Mountbatten was assassinated by the IRA.",
               "links": [
                 {
+                  "text": "assassinated",
                   "type": "internal",
-                  "page": "IRA"
+                  "page": "Assassination of Louis Mountbatten, 1st Earl Mountbatten of Burma"
+                },
+                {
+                  "text": "IRA",
+                  "type": "internal",
+                  "page": "Irish Republican Army"
                 }
               ]
             },
@@ -7330,7 +7383,7 @@
         {
           "sentences": [
             {
-              "text": "Prince Charles proposed to Diana in February 1981; she accepted and they married in St Paul's Cathedral on 29 July of that year.",
+              "text": "Charles proposed to Diana in February 1981; she accepted and they married in St Paul's Cathedral on 29 July of that year.",
               "links": [
                 {
                   "type": "internal",
@@ -7462,7 +7515,7 @@
           "file": "File:Charles_and_Di._Uluru._March_83.JPG",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Charles_and_Di._Uluru._March_83.JPG?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Charles_and_Di._Uluru._March_83.JPG",
-          "caption": "The Prince and Princess of Wales visit Ayers Rock in Australia, March 1983",
+          "caption": "The Prince and Princess of Wales visit Uluru in Australia, March 1983",
           "links": []
         }
       ],
@@ -7647,10 +7700,17 @@
               ]
             },
             {
-              "text": "Earlier that year, the British press had published transcripts of a passionate bugged telephone conversation between Charles and Camilla from 1989, which was dubbed Camillagate by the press."
+              "text": "Earlier that year, the British press had published transcripts of a passionate bugged telephone conversation between Charles and Camilla from 1989, which was dubbed Camillagate by the press.",
+              "links": [
+                {
+                  "text": "Camillagate",
+                  "type": "internal",
+                  "page": "Tampongate scandal"
+                }
+              ]
             },
             {
-              "text": "Prince Charles sought public understanding in a television film, Charles: The Private Man, the Public Role, with Jonathan Dimbleby that was broadcast on 29 June 1994.",
+              "text": "Charles sought public understanding in a television film, Charles: The Private Man, the Public Role, with Jonathan Dimbleby that was broadcast on 29 June 1994.",
               "links": [
                 {
                   "type": "internal",
@@ -7981,7 +8041,7 @@
           "file": "File:Charles_Camilla_Jamaica_2008.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Charles_Camilla_Jamaica_2008.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Charles_Camilla_Jamaica_2008.jpg",
-          "caption": "The Prince of Wales and the Duchess of Cornwall in Jamaica, March 2008",
+          "caption": "Charles and Camilla in Jamaica, March 2008",
           "links": []
         }
       ],
@@ -8373,7 +8433,7 @@
               ]
             },
             {
-              "text": "As an undergraduate at Cambridge he played cello, and has sung with the Bach Choir twice.",
+              "text": "As an undergraduate at Cambridge, he played the cello and has sung with the Bach Choir twice.",
               "links": [
                 {
                   "type": "internal",
@@ -8385,9 +8445,10 @@
               "text": "He was a member of Dryden Society, Trinity College's drama group, and appeared in sketches and revues."
             },
             {
-              "text": "Charles founded The Prince's Foundation for Children and The Arts in 2002, to help more children experience the arts first-hand.",
+              "text": "Charles founded the Prince's Foundation for Children and the Arts in 2002, to help more children experience the arts first-hand.",
               "links": [
                 {
+                  "text": "the Prince's Foundation for Children and the Arts",
                   "type": "internal",
                   "page": "The Prince's Foundation for Children and The Arts"
                 }
@@ -8711,7 +8772,7 @@
         {
           "sentences": [
             {
-              "text": "Charles is an author of several books that reflect his own interests."
+              "text": "Charles is the author of several books that reflect his own interests."
             },
             {
               "text": "He has also contributed a foreword or preface to books by other writers and has also written, presented and has been featured in documentary films.",
@@ -8850,7 +8911,7 @@
         {
           "sentences": [
             {
-              "text": "Other people who were formerly connected with the prince have betrayed his confidence."
+              "text": "Other people who were formerly connected with Charles have betrayed his confidence."
             },
             {
               "text": "In 1995, he obtained an injunction that prevented a former housekeeper's memoirs from being published in the United Kingdom, although they eventually sold 100,000 copies in the United States."
@@ -8869,7 +8930,7 @@
           "file": "File:President_Ronald_Reagan,_Nancy_Reagan,_Prince_Charles,_and_Princess_Diana_in_the_Yellow_Oval_Room.jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/President_Ronald_Reagan%2C_Nancy_Reagan%2C_Prince_Charles%2C_and_Princess_Diana_in_the_Yellow_Oval_Room.jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/President_Ronald_Reagan%2C_Nancy_Reagan%2C_Prince_Charles%2C_and_Princess_Diana_in_the_Yellow_Oval_Room.jpg",
-          "caption": "The Prince and Princess of Wales with Nancy Reagan and Ronald Reagan in November 1985",
+          "caption": "The then-Prince and Princess of Wales with Nancy Reagan and Ronald Reagan in November 1985",
           "links": []
         }
       ],
@@ -9003,23 +9064,25 @@
         {
           "sentences": [
             {
-              "text": "In 2021 and 2022, two of Charles's charities, The Prince's Foundation and The Prince of Wales's Charitable Fund, came under scrutiny for accepting donations that were deemed inappropriate by the media.",
+              "text": "In 2021 and 2022, two of Charles's charities, the Prince's Foundation and the Prince of Wales's Charitable Fund, came under scrutiny for accepting donations that were deemed inappropriate by the media.",
               "links": [
                 {
+                  "text": "the Prince's Foundation",
                   "type": "internal",
-                  "page": "The Prince's Foundation"
+                  "page": "the Prince's Foundation"
                 },
                 {
+                  "text": "the Prince of Wales's Charitable Fund",
                   "type": "internal",
-                  "page": "The Prince of Wales's Charitable Fund"
+                  "page": "the Prince of Wales's Charitable Fund"
                 }
               ]
             },
             {
-              "text": "In August 2021, it was announced that The Prince's Foundation was launching an investigation into the reports that middlemen took cuts for setting up dinners involving wealthy donors and King Charles, with prices as high as £100,000 and the fixers taking up to 25% of the fees."
+              "text": "In August 2021, it was announced that the Prince's Foundation was launching an investigation into the reports that middlemen took cuts for setting up dinners involving wealthy donors and King Charles, with prices as high as £100,000 and the fixers taking up to 25% of the fees."
             },
             {
-              "text": "After temporarily stepping down, the prince's aide Michael Fawcett resigned from his role as chief executive of The Prince's Foundation in November 2021, following reports that he had fixed a CBE for Saudi businessman Mahfouz Marei Mubarak bin Mahfouz who donated more than £1.5 million to royal charities contrary to section 1 of the Honours (Prevention of Abuses) Act 1925.",
+              "text": "After temporarily stepping down, Charles's aide Michael Fawcett resigned from his role as chief executive of the Prince's Foundation in November 2021, following reports that he had fixed a CBE for Saudi businessman Mahfouz Marei Mubarak bin Mahfouz who donated more than £1.5 million to royal charities contrary to section 1 of the Honours (Prevention of Abuses) Act 1925.",
               "links": [
                 {
                   "type": "internal",
@@ -9060,7 +9123,7 @@
               "text": "The auditing firm EY, which carried out the investigation, published a summary report in December 2021, stating that Fawcett had co-ordinated with \"fixers\", but there was \"no evidence that trustees at the time were aware of these communications\"."
             },
             {
-              "text": "The Charity Commission launched its own investigation into allegations that the donations meant for The Prince's Foundation had been instead sent to the Mahfouz Foundation.",
+              "text": "The Charity Commission launched its own investigation into allegations that the donations meant for the Prince's Foundation had been instead sent to the Mahfouz Foundation.",
               "links": [
                 {
                   "text": "Charity Commission",
@@ -9070,7 +9133,7 @@
               ]
             },
             {
-              "text": "In 2021, the foundation was also criticised for accepting a £200,000 donation from Russian convict, Dmitry Leus, whom the prince thanked in a letter, and a £500,000 donation from Taiwanese fugitive Bruno Wang.",
+              "text": "In 2021, the foundation was also criticised for accepting a £200,000 donation from Russian convict, Dmitry Leus, whom Charles thanked in a letter, and a £500,000 donation from Taiwanese fugitive Bruno Wang.",
               "links": [
                 {
                   "type": "internal",
@@ -9101,7 +9164,7 @@
         {
           "sentences": [
             {
-              "text": "In June 2022, The Times reported that between 2011 and 2015 Prince Charles accepted €3 million in cash from the Prime Minister of Qatar, Hamad bin Jassim bin Jaber Al Thani.",
+              "text": "In June 2022, The Times reported that between 2011 and 2015 Charles accepted €3 million in cash from the Prime Minister of Qatar, Hamad bin Jassim bin Jaber Al Thani.",
               "links": [
                 {
                   "type": "internal",
@@ -9146,7 +9209,7 @@
               ]
             },
             {
-              "text": "Coutts collected the cash and each payment was deposited into the accounts of The Prince of Wales's Charitable Fund.",
+              "text": "Coutts collected the cash and each payment was deposited into the accounts of the Prince of Wales's Charitable Fund.",
               "links": [
                 {
                   "type": "internal",
@@ -9161,7 +9224,7 @@
               "text": "The Charity Commission announced they would review the information, and in July 2022, they announced that they would not be launching an investigation into the donations as the information submitted had provided \"sufficient assurance\" that due diligence had taken place."
             },
             {
-              "text": "In the same month, The Times reported that on The Prince of Wales's Charitable Fund receiving a donation of £1 million from Bakr bin Laden and Shafiq bin Laden, both half-brothers of Osama bin Laden, during a private meeting in 2013.",
+              "text": "In the same month, The Times reported that on the Prince of Wales's Charitable Fund receiving a donation of £1 million from Bakr bin Laden and Shafiq bin Laden, both half-brothers of Osama bin Laden, during a private meeting in 2013.",
               "links": [
                 {
                   "type": "internal",
@@ -9467,7 +9530,7 @@
                 {
                   "text": "Prince William",
                   "type": "internal",
-                  "page": "Prince William, Duke of Cambridge"
+                  "page": "William, Prince of Wales"
                 }
               ]
             },
@@ -9489,7 +9552,7 @@
         {
           "sentences": [
             {
-              "text": "In 2006, the prince filed a court case against the Mail on Sunday, after excerpts of his personal journals were published, revealing his opinions on matters such as the transfer of sovereignty of Hong Kong to China in 1997, in which Charles described the Chinese government officials as \"appalling old waxworks\".",
+              "text": "In 2006, Charles filed a court case against the Mail on Sunday, after excerpts of his personal journals were published, revealing his opinions on matters such as the transfer of sovereignty of Hong Kong to China in 1997, in which Charles described the Chinese government officials as \"appalling old waxworks\".",
               "links": [
                 {
                   "text": "filed a court case",
@@ -9523,7 +9586,7 @@
               ]
             },
             {
-              "text": "Jonathan Dimbleby reported that the prince \"has accumulated a number of certainties about the state of the world and does not relish contradiction.\"",
+              "text": "Jonathan Dimbleby reported that Charles \"has accumulated a number of certainties about the state of the world and does not relish contradiction.\"",
               "links": [
                 {
                   "type": "internal",
@@ -9705,7 +9768,7 @@
               }
             },
             {
-              "text": "Charles was interviewed with Princes William and Harry by Ant & Dec to mark the 30th anniversary of The Prince's Trust in 2006 and in 2016 was interviewed by them again along with his sons and the Duchess of Cornwall to mark the 40th anniversary.",
+              "text": "Charles was interviewed with Princes William and Harry by Ant & Dec to mark the 30th anniversary of the Prince's Trust in 2006 and in 2016 was interviewed by them again along with his sons and the Duchess of Cornwall to mark the 40th anniversary.",
               "links": [
                 {
                   "type": "internal",
@@ -9992,7 +10055,7 @@
               "text": "In 2016, it was reported that his estates received £100,000 a year in European Union agricultural subsidies."
             },
             {
-              "text": "Starting in 1993, the Prince of Wales has paid tax voluntarily under the Memorandum of Understanding on Royal Taxation, updated 2013."
+              "text": "Starting in 1993, Charles has paid tax voluntarily under the Memorandum of Understanding on Royal Taxation, updated 2013."
             },
             {
               "text": "In December 2012, Her Majesty's Revenue and Customs were asked to investigate alleged tax avoidance by the Duchy of Cornwall.",
@@ -10336,7 +10399,7 @@
               ]
             },
             {
-              "text": "Charles's first honorary appointment in the armed forces was as Colonel-in-Chief of the Royal Regiment of Wales in 1969; since then, the prince has also been installed as Colonel-in-Chief, Colonel, Honorary Air Commodore, Air Commodore-in-Chief, Deputy Colonel-in-Chief, Royal Honorary Colonel, Royal Colonel, and Honorary Commodore of at least 32 military formations throughout the Commonwealth, including the Royal Gurkha Rifles, which is the only foreign regiment in the British army.",
+              "text": "Charles's first honorary appointment in the armed forces was as Colonel-in-Chief of the Royal Regiment of Wales in 1969; since then, he has also been installed as Colonel-in-Chief, Colonel, Honorary Air Commodore, Air Commodore-in-Chief, Deputy Colonel-in-Chief, Royal Honorary Colonel, Royal Colonel, and Honorary Commodore of at least 32 military formations throughout the Commonwealth, including the Royal Gurkha Rifles, which is the only foreign regiment in the British army.",
               "links": [
                 {
                   "type": "internal",
@@ -10438,8 +10501,45 @@
       ]
     },
     {
-      "title": "Arms as Prince of Wales (1958–2022)",
-      "depth": 1,
+      "title": "Arms",
+      "depth": 1
+    },
+    {
+      "title": "As sovereign",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Upon the death of his mother, Prince Charles became King Charles III and therefore inherited the royal coat of arms of the United Kingdom."
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Royal Coat of Arms of the United Kingdom.svg": {
+              "text": "Royal coat of arms of the United Kingdom"
+            },
+            "Royal Coat of Arms of the United Kingdom (Scotland).svg": {
+              "text": "Royal coat of arms of the United Kingdom for use in Scotland"
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "Royal coat of arms of the United Kingdom"
+          ],
+          "template": "main"
+        }
+      ]
+    },
+    {
+      "title": "As Prince of Wales (1958–2022)",
+      "depth": 2,
       "infoboxes": [
         {
           "name": {
@@ -10591,7 +10691,55 @@
     },
     {
       "title": "Banners, flags, and standards",
-      "depth": 1,
+      "depth": 1
+    },
+    {
+      "title": "As sovereign",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Upon the death of his mother, Prince Charles became King Charles III and therefore adopted the Royal Standard."
+            },
+            {
+              "text": "This flag is used to represent the King not only in the United Kingdom but also overseas when he makes state visits."
+            },
+            {
+              "text": "It is the royal arms in banner form undifferentiated, having been used by successive British monarchs since 1702."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "template": "gallery",
+          "images": [
+            {
+              "file": "File:Royal_Standard_of_the_United_Kingdom.svg",
+              "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Standard_of_the_United_Kingdom.svg?width=300",
+              "url": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Standard_of_the_United_Kingdom.svg",
+              "caption": {}
+            },
+            {
+              "file": "File:Royal_Standard_of_the_United_Kingdom_(in_Scotland).svg",
+              "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Standard_of_the_United_Kingdom_(in_Scotland).svg?width=300",
+              "url": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Standard_of_the_United_Kingdom_(in_Scotland).svg",
+              "caption": {}
+            }
+          ]
+        },
+        {
+          "list": [
+            "Royal Standard of the United Kingdom"
+          ],
+          "template": "main"
+        }
+      ]
+    },
+    {
+      "title": "As Prince of Wales",
+      "depth": 2,
       "paragraphs": [
         {
           "sentences": [
@@ -10820,11 +10968,11 @@
           },
           {
             "name": {
-              "text": "Prince William, Duke of Cornwall and Cambridge",
+              "text": "William, Prince of Wales",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Prince William, Duke of Cornwall and Cambridge"
+                  "page": "William, Prince of Wales"
                 }
               ]
             },
@@ -10844,13 +10992,13 @@
               ]
             },
             "children": {
-              "text": "Prince George of Cornwall and Cambridge"
+              "text": "Prince George of Wales"
             },
             "col6": {
-              "text": "Princess Charlotte of Cornwall and Cambridge"
+              "text": "Princess Charlotte of Wales"
             },
             "col7": {
-              "text": "Prince Louis of Cornwall and Cambridge"
+              "text": "Prince Louis of Wales"
             }
           },
           {
@@ -10890,9 +11038,9 @@
       "templates": [
         {
           "list": [
-            "Prince George of Cornwall and Cambridge",
-            "Princess Charlotte of Cornwall and Cambridge",
-            "Prince Louis of Cornwall and Cambridge"
+            "Prince George of Wales",
+            "Princess Charlotte of Wales",
+            "Prince Louis of Wales"
           ],
           "template": "unbulleted list"
         },
@@ -10925,28 +11073,11 @@
           "13": "13. Princess Mary of Teck",
           "14": "14. Claude Bowes-Lyon, 14th Earl of Strathmore and Kinghorne",
           "15": "15. Cecilia Cavendish-Bentinck",
-          "16": "16. Christian IX of Denmark",
-          "17": "17. Princess Louise of Hesse-Kassel",
-          "18": "18. Grand Duke Konstantin Nikolayevich of Russia",
-          "19": "19. Princess Alexandra of Saxe-Altenburg",
-          "20": "20. Prince Alexander of Hesse and by Rhine",
-          "21": "21. Countess Julia von Hauke",
-          "22": "22. Louis IV, Grand Duke of Hesse and by Rhine",
-          "23": "23. Princess Alice of the United Kingdom",
-          "24": "24. Edward VII of the United Kingdom",
-          "25": "25. Princess Alexandra of Denmark",
-          "26": "26. Francis, Duke of Teck",
-          "27": "27. Princess Mary Adelaide of Cambridge",
-          "28": "28. Claude Bowes-Lyon, 13th Earl of Strathmore and Kinghorne",
-          "29": "29. Frances Dora Smith",
-          "30": "30. Charles Cavendish-Bentinck",
-          "31": "31. Caroline Louisa Burnaby",
           "collapsed": "yes",
           "boxstyle_1": "background-color: #fcc;",
           "boxstyle_2": "background-color: #fb9;",
           "boxstyle_3": "background-color: #ffc;",
           "boxstyle_4": "background-color: #bfc;",
-          "boxstyle_5": "background-color: #9fe;",
           "template": "ahnentafel"
         }
       ],
@@ -10993,9 +11124,6 @@
         {
           "group": "fn",
           "template": "reflist"
-        },
-        {
-          "template": "notelist"
         }
       ]
     },
@@ -11440,6 +11568,9 @@
         },
         {
           "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "templates": [
@@ -11491,7 +11622,7 @@
           "template": "s-ttl"
         },
         {
-          "heir": "Wiliam, Duke of Cornwall and Cambridge",
+          "heir": "The Prince of Wales",
           "heir-type": "Heir apparent",
           "rows": "15",
           "template": "s-inc"
@@ -11628,18 +11759,14 @@
           "template": "s-ttl"
         },
         {
-          "heir": "The Duke of Cornwall and Cambridge",
-          "heir-type": "Presumed next holder",
-          "template": "s-inc"
+          "after": "The Prince William",
+          "rows": "2",
+          "template": "s-aft"
         },
         {
           "title": "Duke of Cornwall\nDuke of Rothesay",
           "years": "6 February 1952 – 8 September 2022",
           "template": "s-ttl"
-        },
-        {
-          "after": "The Duke of Cornwall and Cambridge",
-          "template": "s-aft"
         },
         {
           "list": [
@@ -11708,16 +11835,15 @@
           "template": "s-prec"
         },
         {
-          "rows": "2",
-          "before": "First",
-          "template": "s-bef"
+          "reason": "First",
+          "template": "s-non"
         },
         {
           "title": "Orders of precedence in the United Kingdom'''\nHM The King",
           "template": "s-ttl"
         },
         {
-          "after": "The Duke of Cornwall and Cambridge",
+          "after": "The Prince of Wales",
           "template": "s-aft"
         },
         {
@@ -11751,10 +11877,16 @@
           "template": "heads of state of jamaica"
         },
         {
-          "template": "current sovereigns"
+          "template": "sovereigns of monarchies"
         },
         {
           "template": "list of current heads of state of g20"
+        },
+        {
+          "template": "grand masters of the order of the bath"
+        },
+        {
+          "template": "monarchies"
         },
         {
           "template": "navboxes"
@@ -11792,30 +11924,6 @@
                 "text": "The King",
                 "type": "external",
                 "site": "https://www.royal.uk/the-king"
-              }
-            ]
-          },
-          {
-            "text": "Official website of the Prince of Wales",
-            "links": [
-              {
-                "text": "Official website of the Prince of Wales",
-                "type": "external",
-                "site": "http://www.princeofwales.gov.uk/"
-              }
-            ]
-          },
-          {
-            "text": "The Prince of Wales at the website of the Government of Canada",
-            "links": [
-              {
-                "text": "The Prince of Wales",
-                "type": "external",
-                "site": "https://www.canada.ca/en/canadian-heritage/services/royal-family/members-royal-family/prince-wales.html"
-              },
-              {
-                "type": "internal",
-                "page": "Government of Canada"
               }
             ]
           },
