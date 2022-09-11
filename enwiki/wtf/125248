@@ -4,8 +4,9 @@
   "categories": [
     "1948 births",
     "Living people",
-    "Charles, Prince of Wales",
+    "Charles III",
     "20th-century British writers",
+    "21st-century British monarchs",
     "21st-century British writers",
     "Alumni of Aberystwyth University",
     "Alumni of Trinity College, Cambridge",
@@ -13,12 +14,17 @@
     "British environmentalists",
     "British philanthropists",
     "British princes",
-    "Heirs to the British throne",
     "Children of Elizabeth II",
     "Deified people",
     "Dukes of Cornwall",
     "Dukes of Edinburgh",
     "Dukes of Rothesay",
+    "English people of Danish descent",
+    "English people of German descent",
+    "English people of Greek descent",
+    "English people of Russian descent",
+    "English people of Scottish descent",
+    "Graduates of the Royal Air Force College Cranwell",
     "Heads of the Commonwealth",
     "Heads of state of Australia",
     "Heads of state of Antigua and Barbuda",
@@ -34,15 +40,9 @@
     "Heads of state of Saint Vincent and the Grenadines",
     "Heads of state of the Solomon Islands",
     "Heads of state of Tuvalu",
+    "House of Windsor",
     "Monarchs of the Isle of Man",
     "Monarchs of the United Kingdom",
-    "English people of Danish descent",
-    "English people of German descent",
-    "English people of Greek descent",
-    "English people of Russian descent",
-    "English people of Scottish descent",
-    "Graduates of the Royal Air Force College Cranwell",
-    "House of Windsor",
     "Mountbatten-Windsor family",
     "People educated at Cheam School",
     "People educated at Geelong Grammar School",
@@ -51,8 +51,7 @@
     "People from Westminster",
     "People named in the Paradise Papers",
     "Sustainability advocates",
-    "Writers from London",
-    "21st-century British monarchs"
+    "Writers from London"
   ],
   "sections": [
     {
@@ -65,9 +64,8 @@
               "text": "Charles III (Charles Philip Arthur George; born 14 November 1948) is King of the United Kingdom and 14 other Commonwealth realms.",
               "links": [
                 {
-                  "text": "King of the United Kingdom",
                   "type": "internal",
-                  "page": "Monarchy of the United Kingdom"
+                  "page": "King of the United Kingdom"
                 },
                 {
                   "text": "Commonwealth realms",
@@ -82,15 +80,14 @@
               }
             },
             {
-              "text": "He acceded to the throne on 8 September 2022 upon the death of his mother, Queen Elizabeth II.",
+              "text": "He acceded to the throne on 8 September 2022 upon the death of his mother, Elizabeth II.",
               "links": [
                 {
                   "text": "the death",
                   "type": "internal",
-                  "page": "Death of Elizabeth II"
+                  "page": "Death and state funeral of Elizabeth II"
                 },
                 {
-                  "text": "Queen Elizabeth II",
                   "type": "internal",
                   "page": "Elizabeth II"
                 }
@@ -119,20 +116,14 @@
               ]
             },
             {
-              "text": "At 73 years of age, Charles is also the oldest person ever to assume the British throne, a record previously held by William IV at age 64.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "William IV"
-                }
-              ]
+              "text": "At 73 years of age, Charles was also the oldest person ever to assume the British throne."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Charles was born in Buckingham Palace, the first child of his mother and Philip, Duke of Edinburgh; he was the first grandchild of King George VI and his consort, Queen Elizabeth.",
+              "text": "Charles was born in Buckingham Palace as the first child of then-Princess Elizabeth, Duchess of Edinburgh, and Philip, Duke of Edinburgh, and the first grandchild of King George VI and Queen Elizabeth.",
               "links": [
                 {
                   "type": "internal",
@@ -144,7 +135,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "George VI"
+                  "page": "King George VI"
                 },
                 {
                   "text": "Queen Elizabeth",
@@ -215,16 +206,19 @@
                   "page": "Wedding of Prince Charles and Lady Diana Spencer"
                 },
                 {
+                  "text": "Lady Diana Spencer",
                   "type": "internal",
-                  "page": "Lady Diana Spencer"
+                  "page": "Diana, Princess of Wales"
                 },
                 {
+                  "text": "Prince William",
                   "type": "internal",
-                  "page": "Prince William"
+                  "page": "William, Prince of Wales"
                 },
                 {
+                  "text": "Prince Harry",
                   "type": "internal",
-                  "page": "Prince Harry"
+                  "page": "Prince Harry, Duke of Sussex"
                 }
               ]
             },
@@ -232,10 +226,10 @@
               "text": "In 1996, the couple divorced after they had each engaged in well-publicised extramarital affairs."
             },
             {
-              "text": "Diana died as the result of a car crash in Paris the following year.",
+              "text": "Diana died as a result of a car crash in Paris the following year.",
               "links": [
                 {
-                  "text": "died as the result of a car crash",
+                  "text": "died as a result of a car crash",
                   "type": "internal",
                   "page": "Death of Diana, Princess of Wales"
                 },
@@ -293,7 +287,7 @@
               ]
             },
             {
-              "text": "A critic of modernist architecture, Charles has worked on the creation of Poundbury, an experimental new town based on his architectural tastes.",
+              "text": "A critic of modernist architecture, Charles worked on the creation of Poundbury, an experimental new town based on his architectural tastes.",
               "links": [
                 {
                   "text": "modernist architecture",
@@ -326,7 +320,7 @@
         {
           "sentences": [
             {
-              "text": "An environmentalist, Charles supported organic farming and action to prevent climate change during his time as the manager of the Duchy of Cornwall estates, which has earned him awards and recognition from environmental groups.",
+              "text": "An environmentalist, Charles supported organic farming and action to prevent climate change during his time as the manager of the Duchy of Cornwall estates, earning him awards and recognition from environmental groups.",
               "links": [
                 {
                   "text": "environmentalist",
@@ -370,22 +364,22 @@
               ]
             },
             {
-              "text": "Charles's support for pseudoscience, including homeopathy, has been the subject of criticism.",
+              "text": "Charles's support for homeopathy and other alternative medicine has been the subject of criticism.",
               "links": [
-                {
-                  "text": "pseudoscience",
-                  "type": "internal",
-                  "page": "pseudoscience"
-                },
                 {
                   "text": "homeopathy",
                   "type": "internal",
                   "page": "homeopathy"
+                },
+                {
+                  "text": "alternative medicine",
+                  "type": "internal",
+                  "page": "alternative medicine"
                 }
               ]
             },
             {
-              "text": "The conduct of his charities has also attracted criticism, having faced allegations of offering of British citizenship to donors, and with the Prince's Foundation subject to an ongoing Metropolitan Police investigation into cash-for-honours allegations.",
+              "text": "Following allegations concerning the offering of British citizenship to donors, the conduct of one of his charities, the Prince's Foundation, had attracted criticism; currently, the charity is the subject of an ongoing Metropolitan Police investigation into cash-for-honours allegations.",
               "links": [
                 {
                   "text": "the Prince's Foundation",
@@ -407,12 +401,18 @@
           "template": "short description"
         },
         {
-          "template": "other uses"
-        },
-        {
           "template": "redirect",
           "redirect": "Prince Charles",
-          "links": []
+          "links": [
+            {
+              "page": "Charles III (disambiguation)",
+              "desc": ""
+            },
+            {
+              "page": "Prince Charles (disambiguation)",
+              "desc": "and"
+            }
+          ]
         },
         {
           "small": "yes",
@@ -441,7 +441,7 @@
           "template": "birth date and age"
         },
         {
-          "spouse": "Lady Diana Spencer",
+          "spouse": "Diana Spencer",
           "from": "29 July 1981",
           "to": "28 August 1996",
           "reason": "divorced",
@@ -454,7 +454,7 @@
         },
         {
           "list": [
-            "Lady Diana Spencer (m. 29 July 1981-28 August 1996)",
+            "Diana Spencer (m. 29 July 1981-28 August 1996)",
             "Camilla Parker Bowles (m. 9 April 2005)"
           ],
           "template": "ubl"
@@ -543,11 +543,23 @@
           "name": {
             "text": "Charles III"
           },
+          "title": {
+            "text": "Head of the Commonwealth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Head of the Commonwealth"
+              }
+            ]
+          },
           "image": {
             "text": "Charles, Prince of Wales in 2021 (cropped) (3).jpg"
           },
+          "alt": {
+            "text": "A photograph of King Charles III (as Prince Charles) aged 73"
+          },
           "caption": {
-            "text": "King Charles III, then Prince of Wales, in 2021",
+            "text": "Charles III, then Prince of Wales, in 2021",
             "links": [
               {
                 "type": "internal",
@@ -555,16 +567,12 @@
               }
             ]
           },
-          "alt": {
-            "text": "A photograph of King Charles III (as Prince Charles) aged 73"
-          },
           "succession": {
             "text": "King of the United Kingdom and the other Commonwealth realms",
             "links": [
               {
-                "text": "King of the United Kingdom",
                 "type": "internal",
-                "page": "Monarchy of the United Kingdom"
+                "page": "King of the United Kingdom"
               },
               {
                 "text": "Commonwealth realms",
@@ -628,7 +636,7 @@
             "text": "November 14, 1948"
           },
           "birth_place": {
-            "text": "Buckingham Palace, London, United Kingdom",
+            "text": "Buckingham Palace, London, England, United Kingdom",
             "links": [
               {
                 "type": "internal",
@@ -636,8 +644,17 @@
               }
             ]
           },
+          "consort": {
+            "text": "Camilla Parker Bowles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Camilla Parker Bowles"
+              }
+            ]
+          },
           "spouses": {
-            "text": "Lady Diana Spencer (m. 29 July 1981-28 August 1996)\n\nCamilla Parker Bowles (m. 9 April 2005)"
+            "text": "Diana Spencer (m. 29 July 1981-28 August 1996)\n\nCamilla Parker Bowles (m. 9 April 2005)"
           },
           "issue-link": {
             "text": "#Issue"
@@ -677,14 +694,14 @@
             ]
           },
           "signature": {
-            "text": "King Charles III autograph.svg"
+            "text": "King Charles III autograph prior to accession.svg"
           },
           "religion": {
-            "text": "Anglicanism",
+            "text": "Church of England",
             "links": [
               {
                 "type": "internal",
-                "page": "Anglicanism"
+                "page": "Church of England"
               }
             ]
           }
@@ -782,6 +799,16 @@
           "type": "news"
         },
         {
+          "date": "2022-02-15",
+          "title": "Prince Charles and Alternative Medicine {{!}} Science-Based Medicine",
+          "url": "https://sciencebasedmedicine.org/prince-charles-and-alternative-medicine/",
+          "access-date": "2022-09-10",
+          "website": "sciencebasedmedicine.org",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "title": "Prince Charles becomes longest-serving heir apparent",
           "url": "https://www.bbc.com/news/uk-13133587",
           "work": "BBC News",
@@ -861,32 +888,32 @@
           "type": "news"
         },
         {
+          "date": "16 February 2022",
           "title": "Breaking: Met Police investigate cash-for-honours allegations against Prince Charles' charity",
           "url": "https://www.cityam.com/breaking-met-police-investigate-cash-for-honours-allegations-against-prince-charles-charity/",
-          "website": "City A.M.",
-          "date": "16 February 2022",
           "archive-url": "https://web.archive.org/web/20220216143136/https://www.cityam.com/breaking-met-police-investigate-cash-for-honours-allegations-against-prince-charles-charity/",
           "archive-date": "16 February 2022",
           "access-date": "16 February 2022",
+          "website": "City A.M.",
           "template": "citation",
           "type": "web"
         },
         {
-          "url": "https://www.bbc.com/news/uk-60404077",
-          "title": "Police to investigate Prince Charles' charity",
-          "work": "BBC",
-          "first": "Mary",
           "last": "O'Connor",
+          "first": "Mary",
           "date": "16 February 2022",
+          "title": "Police to investigate Prince Charles' charity",
+          "url": "https://www.bbc.com/news/uk-60404077",
           "archive-url": "https://web.archive.org/web/20220216223956/https://www.bbc.com/news/uk-60404077",
           "archive-date": "16 February 2022",
           "access-date": "17 February 2022",
+          "work": "BBC",
           "template": "citation",
           "type": "web"
         },
         {
           "list": [
-            "As the reigning monarch entitled to be called His Majesty, the King does not usually use a family name. But when one is needed, it is Mountbatten-Windsor."
+            "As the reigning monarch, Charles is entitled to be styled His Majesty, the King does not usually use a family name. But when one is needed, it is Mountbatten-Windsor."
           ],
           "group": "fn",
           "name": "sur",
@@ -906,6 +933,22 @@
           ],
           "group": "fn",
           "name": "realms",
+          "template": "refn"
+        },
+        {
+          "list": [
+            "on 9 September 2022, in Australia, New Zealand, Papua New Guinea, Solomon Islands and Tuvalu (per respective local time zones)."
+          ],
+          "group": "fn",
+          "name": "countries",
+          "template": "refn"
+        },
+        {
+          "list": [
+            "A record previously held since 1830 by William IV at age 64."
+          ],
+          "group": "fn",
+          "name": "age",
           "template": "refn"
         }
       ]
@@ -1487,9 +1530,6 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "Charles was created Prince of Wales and Earl of Chester on 26 July 1958, though his investiture was not held until 1 July 1969, when he was crowned by his mother in a televised ceremony held at Caernarfon Castle.",
@@ -1566,15 +1606,6 @@
               "text": "Charles commented: \"So, what are you supposed to think when you are prepared to do something to help and you are just told you're not wanted?\""
             }
           ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Richard_Nixon_with_Prince_Charles_(cropped).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Richard_Nixon_with_Prince_Charles_(cropped).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Richard_Nixon_with_Prince_Charles_(cropped).jpg",
-          "caption": "Charles met US President Richard Nixon in the Oval Office on an official visit to the United States in July 1970.",
-          "links": []
         }
       ],
       "references": [
@@ -1928,7 +1959,7 @@
         {
           "sentences": [
             {
-              "text": "In 2008, The Daily Telegraph described Charles as the \"hardest-working member of the royal family.\"",
+              "text": "In 2008, The Daily Telegraph described Charles as the \"hardest-working member of the royal family\".",
               "links": [
                 {
                   "type": "internal",
@@ -1994,7 +2025,14 @@
               ]
             },
             {
-              "text": "In his speech to parliament, Charles said \"Bearing in mind I am the first Charles to have anything to do with a Parliament for 350 years, I might have turned nasty and dissolved you\"."
+              "text": "In his speech to parliament and referring to the actions of Charles I, Charles said \"Bearing in mind I am the first Charles to have anything to do with a Parliament for 350 years, I might have turned nasty and dissolved you\".",
+              "links": [
+                {
+                  "text": "Charles I",
+                  "type": "internal",
+                  "page": "Charles I of England"
+                }
+              ]
             },
             {
               "text": "Charles also represented the Queen at the independence celebrations in Fiji in 1970, the Bahamas in 1973, Papua New Guinea in 1975, Zimbabwe in 1980, and Brunei in 1984."
@@ -3987,7 +4025,7 @@
         {
           "sentences": [
             {
-              "text": "His book and BBC documentary A Vision of Britain (1987) was also critical of modern architecture, and he has continued to campaign for traditional urbanism, human scale, restoration of historic buildings, and sustainable design, despite criticism in the press.",
+              "text": "His book and BBC documentary A Vision of Britain (1987) were also critical of modern architecture, and he has continued to campaign for traditional urbanism, human scale, restoration of historic buildings, and sustainable design, despite criticism in the press.",
               "formatting": {
                 "italic": [
                   "A Vision of Britain"
@@ -4285,7 +4323,7 @@
               ]
             },
             {
-              "text": "The foundation is known for refurbishing historic buildings in Kabul, Afghanistan and in Kingston, Jamaica.",
+              "text": "The foundation is known for refurbishing historic buildings in Kabul, Afghanistan and Kingston, Jamaica.",
               "links": [
                 {
                   "type": "internal",
@@ -5048,7 +5086,7 @@
               ]
             },
             {
-              "text": "Nettles are a type of plants which are usually \"perceived to have no value\"."
+              "text": "Nettles are a type of plant which are usually \"perceived to have no value\"."
             },
             {
               "text": "The Highgrove plant waste was also used to create the jewellery worn with the dresses."
@@ -5903,7 +5941,7 @@
         {
           "sentences": [
             {
-              "text": "Charles's Duchy Originals produce a variety of complementary medicinal products including a \"Detox Tincture\" that Edzard Ernst has denounced as \"financially exploiting the vulnerable\" and \"outright quackery\".",
+              "text": "Charles's Duchy Originals produced a variety of complementary medicinal products including a \"Detox Tincture\" that Edzard Ernst denounced as \"financially exploiting the vulnerable\" and \"outright quackery\".",
               "links": [
                 {
                   "text": "Duchy Originals",
@@ -6721,7 +6759,7 @@
         {
           "sentences": [
             {
-              "text": "Prior to acceding to the British throne, opinion polls put Charles's popularity with the British people at 42 percent, with a 2019 BMG Research poll finding that 46 percent of Britons wanted Charles to abdicate immediately upon accession to the throne, in favour of William."
+              "text": "Prior to acceding to the British throne, opinion polls put Charles's popularity with the British people at 42 per cent, with a 2019 BMG Research poll finding that 46 percent of Britons wanted Charles to abdicate immediately upon accession to the throne, in favour of William."
             },
             {
               "text": "A 2021 opinion poll reported that 60 percent of the British public had a favourable opinion of him."
@@ -6773,9 +6811,9 @@
               "text": "Charles ascended the British throne on 8 September 2022, following the death of his mother, Queen Elizabeth II.",
               "links": [
                 {
-                  "text": "the death of his mother",
+                  "text": "death of his mother",
                   "type": "internal",
-                  "page": "Death of Elizabeth II"
+                  "page": "Death and state funeral of Elizabeth II"
                 }
               ]
             },
@@ -6910,7 +6948,7 @@
         {
           "sentences": [
             {
-              "text": "The King gave his first speech to the nation on 9 September at 6 p.m. BST, in which he mourned his late mother and proclaimed his son William the Prince of Wales.",
+              "text": "The King gave his first speech to the nation on 9 September at 18:00 BST, in which he mourned his late mother and proclaimed his son William the Prince of Wales.",
               "links": [
                 {
                   "text": "William",
@@ -6920,6 +6958,57 @@
                 {
                   "type": "internal",
                   "page": "Prince of Wales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 10 September 2022, Charles was publicly proclaimed King by the Accession Council.",
+              "links": [
+                {
+                  "text": "proclaimed",
+                  "type": "internal",
+                  "page": "proclamation"
+                },
+                {
+                  "type": "internal",
+                  "page": "Accession Council"
+                }
+              ]
+            },
+            {
+              "text": "The ceremony was televised for the first time."
+            },
+            {
+              "text": "Attendees included William, Prince of Wales, Queen Camilla, and former British prime ministers Sir John Major, Sir Tony Blair, Gordon Brown, David Cameron, Lady (Theresa) May and Boris Johnson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Major"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tony Blair"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gordon Brown"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Cameron"
+                },
+                {
+                  "text": "Lady (Theresa) May",
+                  "type": "internal",
+                  "page": "Theresa May"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
                 }
               ]
             }
@@ -6991,7 +7080,27 @@
           "date": "9 September 2022",
           "work": "BBC.com",
           "url": "https://www.bbc.com/news/live/uk-62842089",
-          "title": "King Charles III pays tribute to his ‘darling mama’ in first address",
+          "title": "King Charles III pays tribute to his 'darling mama' in first address",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-62860893",
+          "title": "Charles formally confirmed as king in ceremony televised for first time",
+          "website": "BBC News",
+          "date": "10 September 2022",
+          "access-date": "10 September 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/uk-news/live/2022/sep/10/king-charles-iii-proclaimed-st-james-palace-accession-council-latest-updates",
+          "title": "Charles III is proclaimed King",
+          "website": "The Guardian",
+          "last": "Ratcliffe",
+          "first": "Rebecca",
+          "date": "10 September 2022",
+          "access-date": "10 September 2022",
           "template": "citation",
           "type": "web"
         },
@@ -7703,9 +7812,8 @@
               "text": "Earlier that year, the British press had published transcripts of a passionate bugged telephone conversation between Charles and Camilla from 1989, which was dubbed Camillagate by the press.",
               "links": [
                 {
-                  "text": "Camillagate",
                   "type": "internal",
-                  "page": "Tampongate scandal"
+                  "page": "Camillagate"
                 }
               ]
             },
@@ -8850,7 +8958,7 @@
               "text": "Since his birth, Charles has received close media attention, which increased as he matured."
             },
             {
-              "text": "It has been an ambivalent relationship, largely impacted by his marriages to Diana and Camilla and its aftermath, but also centred on his future conduct as king, such as the 2014 play King Charles III.",
+              "text": "It has been an ambivalent relationship, largely impacted by his marriages to Diana and Camilla and their aftermath, but also centred on his future conduct as king, such as the 2014 play King Charles III.",
               "links": [
                 {
                   "text": "King Charles III",
@@ -9186,16 +9294,12 @@
               }
             },
             {
-              "text": "The funds were said to be in the form of €500 notes, handed over in person in three tranches, in a suitcase, holdall and Fortnum & Mason carrier bags.",
+              "text": "The funds were said to be in the form of €500 notes, handed over in person in three tranches, in a suitcase, holdall and carrier bags.",
               "links": [
                 {
                   "text": "€500 notes",
                   "type": "internal",
                   "page": "500 euro note"
-                },
-                {
-                  "type": "internal",
-                  "page": "Fortnum & Mason"
                 }
               ]
             },
@@ -9246,6 +9350,9 @@
             },
             {
               "text": "The Charity Commission described the decision to accept donations as a \"matter for trustees\" and added that based on the available information no investigation was required."
+            },
+            {
+              "text": "In June 2022, a senior palace aide said that cash donations would no longer be accepted."
             }
           ]
         }
@@ -9395,6 +9502,17 @@
           "last": "Coughlan",
           "date": "20 July 2022",
           "accessdate": "21 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Dellatto",
+          "first": "Marisa",
+          "title": "Prince Charles Reportedly Will Not Accept Bags Of Cash Again Amid Charity Scandal",
+          "url": "https://www.forbes.com/sites/marisadellatto/2022/06/29/prince-charles-reportedly-will-not-accept-bags-of-cash-again-amid-charity-scandal/",
+          "access-date": "2022-09-11",
+          "website": "Forbes",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
@@ -10325,7 +10443,7 @@
             }
           },
           {
-            "text": "6 February 1952 – 8 September 2022: His Royal Highness The Duke of Cornwall",
+            "text": "6 February 1952 – 26 July 1958: His Royal Highness The Duke of Cornwall",
             "formatting": {
               "italic": [
                 "His Royal Highness"
@@ -10333,7 +10451,7 @@
             }
           },
           {
-            "text": "in Scotland: 6 February 1952 – 8 September 2022: His Royal Highness The Duke of Rothesay",
+            "text": "in Scotland: His Royal Highness The Duke of Rothesay",
             "formatting": {
               "italic": [
                 "in Scotland",
@@ -10345,6 +10463,15 @@
             "text": "26 July 1958 – 8 September 2022: His Royal Highness The Prince of Wales",
             "formatting": {
               "italic": [
+                "His Royal Highness"
+              ]
+            }
+          },
+          {
+            "text": "in Scotland: His Royal Highness The Duke of Rothesay",
+            "formatting": {
+              "italic": [
+                "in Scotland",
                 "His Royal Highness"
               ]
             }
@@ -11113,6 +11240,15 @@
                 "page": "List of current monarchs of sovereign states"
               }
             ]
+          },
+          {
+            "text": "List of current British princes and princesses",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of current British princes and princesses"
+              }
+            ]
           }
         ]
       ]
@@ -11617,7 +11753,7 @@
           "template": "s-bef"
         },
         {
-          "title": "King of the United Kingdom",
+          "title": "King of Antigua and Barbuda",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
         },
@@ -11639,31 +11775,15 @@
           "template": "s-break"
         },
         {
+          "title": "King of Belize",
+          "years": "8 September 2022 – present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-break"
+        },
+        {
           "title": "King of Canada",
-          "years": "8 September 2022 – present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-break"
-        },
-        {
-          "title": "King of New Zealand",
-          "years": "8 September 2022 – present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-break"
-        },
-        {
-          "title": "King of Jamaica",
-          "years": "8 September 2022 – present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-break"
-        },
-        {
-          "title": "King of the Bahamas",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
         },
@@ -11679,6 +11799,22 @@
           "template": "s-break"
         },
         {
+          "title": "King of Jamaica",
+          "years": "8 September 2022 – present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "title": "King of New Zealand",
+          "years": "8 September 2022 – present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-break"
+        },
+        {
           "title": "King of Papua New Guinea",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
@@ -11687,15 +11823,7 @@
           "template": "s-break"
         },
         {
-          "title": "King of the Solomon Islands",
-          "years": "8 September 2022 – present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-break"
-        },
-        {
-          "title": "King of Tuvalu",
+          "title": "King of Saint Kitts and Nevis",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
         },
@@ -11719,7 +11847,7 @@
           "template": "s-break"
         },
         {
-          "title": "King of Belize",
+          "title": "King of Solomon Islands",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
         },
@@ -11727,7 +11855,7 @@
           "template": "s-break"
         },
         {
-          "title": "King of Antigua and Barbuda",
+          "title": "King of The Bahamas",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
         },
@@ -11735,7 +11863,15 @@
           "template": "s-break"
         },
         {
-          "title": "King of Saint Kitts and Nevis",
+          "title": "King of Tuvalu",
+          "years": "8 September 2022 – present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-break"
+        },
+        {
+          "title": "King of the United Kingdom",
           "years": "8 September 2022 – present",
           "template": "s-ttl"
         },
