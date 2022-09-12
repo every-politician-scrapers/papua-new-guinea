@@ -176,9 +176,8 @@
                 "page": "Elizabeth II"
               },
               {
-                "text": "Charles III",
                 "type": "internal",
-                "page": "Charles, King of the United Kingdom"
+                "page": "Charles III"
               }
             ]
           },
@@ -856,12 +855,6 @@
         }
       ],
       "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
         {
           "template": "citation",
           "type": "inline",
