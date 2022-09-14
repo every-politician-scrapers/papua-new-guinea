@@ -5,6 +5,7 @@
     "1960 births",
     "Living people",
     "Speakers of the National Parliament of Papua New Guinea",
+    "Papua New Guinean Seventh-day Adventists",
     "People's National Congress (Papua New Guinea) politicians",
     "21st-century politicians",
     "Companions of the Order of St Michael and St George"
@@ -72,6 +73,70 @@
           "access-date": "2022-07-07",
           "website": "RNZ",
           "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Job Pomat was born to Peter Pomat, a village chief, Seventh-day Adventist missionary and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peter Pomat"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://thenational.com.pg/how-job-made-it-right-for-late-dad/",
+          "title": "How Job made it right for late dad",
+          "last": "Ingipa",
+          "first": "Joyce",
+          "date": "2019-11-07",
+          "website": "The National",
+          "access-date": "2022-09-13",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pomat is a member of the Seventh-day Adventist Church.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Seventh-day Adventist Church"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://postcourier.com.pg/pomat-opens-new-sda-church/",
+          "title": "Pomat Opens New SDA Church",
+          "last": "Nao",
+          "first": "Kila",
+          "date": "2021-10-24",
+          "website": "Papua New Guinea Post-Courier",
+          "access-date": "2022-09-13",
           "template": "citation",
           "type": "web"
         }
