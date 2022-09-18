@@ -1,10 +1,17 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q34518124,monarch of Papua New Guinea,Q691,,,,,,,,
 Q1073440,Governor-General of Papua New Guinea,Q691,,,Q29583409,1975-09-16,,,,Governor-General of Papua New Guinea
-Q1074656,Prime Minister of Papua New Guinea,Q691,Q691,,,1975-09-16,,,,Prime Minister of Papua New Guinea
+Q113961490,Member of the Bougainville House of Representatives,,,,,,,,,
+Q21294916,Member of the Parliament of Papua New Guinea,Q691,Q691,,,,,,,
+Q24188607,Minister for Foreign Affairs and Immigration,Q691,Q691,,,,,,,
 Q113575679,Minister of Education,Q691,Q691,,,,,,,
 Q113575677,Minister of Finance,,Q691,,,,,,,
 Q20716378,Minister of Foreign Affairs,Q691,Q691,,,,,,,Minister for Foreign Affairs (Papua New Guinea)
-Q24188607,Minister for Foreign Affairs and Immigration,Q691,Q691,,,,,,,
+Q30622412,Papua New Guinean Ambassador to China,,,,,,,,,List of ambassadors of Papua New Guinea to China
+Q29026403,Papua New Guinean Ambassador to the United States,Q691,,,,,,,,List of ambassadors of Papua New Guinea to the United States
 Q7241305,President of the Autonomous Region of Bougainville,,Q18826,Q7925066,,2005-06-15,,,,President of the Autonomous Region of Bougainville
+Q1074656,Prime Minister of Papua New Guinea,Q691,Q691,,,1975-09-16,,,,Prime Minister of Papua New Guinea
 Q6597957,Speaker of the National Parliament of Papua New Guinea,Q691,Q691,,,1975,,,,Speaker of the National Parliament of Papua New Guinea
+Q7925066,Vice President of the Autonomous Region of Bougainville,,Q18826,,,2005-06-15,,,,Vice-President of the Autonomous Region of Bougainville
+Q112245673,ambassador of Papua New Guinea,Q691,,,,,,,,
+Q86447120,member of the 10th National Parliament of Papua New Guinea,Q691,,,,2017-07-08,,,,
+Q34518124,monarch of Papua New Guinea,Q691,,,,,,,,
