@@ -126,30 +126,6 @@
           "caption": {
             "text": "Marape in June 2019"
           },
-          "birth_date": {
-            "text": "April 24, 1971"
-          },
-          "birth_place": {
-            "text": "Tari, Southern Highlands Province, Territory of Papua and New Guinea (now Hela Province, Papua New Guinea)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Southern Highlands Province"
-              },
-              {
-                "type": "internal",
-                "page": "Territory of Papua and New Guinea"
-              },
-              {
-                "type": "internal",
-                "page": "Hela Province"
-              },
-              {
-                "type": "internal",
-                "page": "Papua New Guinea"
-              }
-            ]
-          },
           "order": {
             "text": "9th"
           },
@@ -191,7 +167,7 @@
             ]
           },
           "deputy": {
-            "text": "Davis Steven (2019-2020) Sam Basil (2020-2022) John Rosso (2022-present)",
+            "text": "Davis Steven (2019–2020) Sam Basil (2020–2022) John Rosso (2022–present)",
             "links": [
               {
                 "type": "internal",
@@ -292,6 +268,30 @@
               {
                 "type": "internal",
                 "page": "Tom Tomiape"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 24, 1971"
+          },
+          "birth_place": {
+            "text": "Tari, Southern Highlands Province, Territory of Papua and New Guinea (now Hela Province, Papua New Guinea)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Southern Highlands Province"
+              },
+              {
+                "type": "internal",
+                "page": "Territory of Papua and New Guinea"
+              },
+              {
+                "type": "internal",
+                "page": "Hela Province"
+              },
+              {
+                "type": "internal",
+                "page": "Papua New Guinea"
               }
             ]
           },
@@ -738,7 +738,7 @@
               "text": "A motion of no confidence in the Marape government could be mounted after 30 November as the grace period for a new cabinet expired then."
             },
             {
-              "text": "A motion by Belden Namah was accepted (57-39) to adjourn Parliament to 1 December with the intention to mount a vote on such a motion."
+              "text": "A motion by Belden Namah was accepted (57–39) to adjourn Parliament to 1 December with the intention to mount a vote on such a motion."
             },
             {
               "text": "Those who voted with Namah, 55 in number, went in a so-called \"camp\" in Vanimo, the constituency of Belden."
