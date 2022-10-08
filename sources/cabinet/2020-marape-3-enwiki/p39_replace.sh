@@ -31,7 +31,7 @@ then
 
         if [[ $4 =~ http ]]
         then
-            wd ar $newpsid P854 $4
+            wd ar $newpsid P4656 $4
         fi
     else
         echo "No valid PSID to add qualifiers to"
