@@ -18,36 +18,43 @@ Prime Minister,James Marape,Q6138903,2019-05-30,
 Deputy Prime Minister,Samuel Basil,Q28966596,2020-10-01,2021-07
 Deputy Prime Minister,Samuel Basil,Q28966596,2022-01,2022-05-11
 Deputy Prime Minister,John Rosso,Q80070005,2022-05-25,
-Minister for Agriculture and Livestock,John Simon,Q89911048,2020-12-20,2022-06-11
-Minister for Bougainville Affairs,James Marape,Q6138903,2020-12-20,2022-06-11
+Minister for Agriculture and Livestock,John Simon,Q89911048,2020-12-20,2022-08
+Minister for Agriculture and Livestock,Aiye Tambua,Q113833332,2022-08,
+Minister for Bougainville Affairs,James Marape,Q6138903,2020-12-20,2022-08
 Minister for Bougainville Affairs,Manasseh Quiz Makiba,Q92784969,2022-08-20,
 Minister for Civil Aviation,Jelta Wong,Q89992188,2020-10-01,2020-12-19
 Minister for Civil Aviation,Sekie Agisa,Q86450088,2020-12-20,2022-01
 Minister for Civil Aviation,Walter Schnaubelt,Q35498105,2022-01,
+Minister of Coffee,Joe Kuli,Q90126334,2022-08-23,
 Minister for Commerce and Industry,Samuel Basil,Q28966596,2020-12-19,2021-07
 Minister for Commerce and Industry,William Samb,Q96056567,2022-01-10,2022-03-03
 Minister for Commerce and Industry,Henry Amuli,Q112729047,2022-04,
 Minister for Communication and ICT,Samuel Basil,Q28966596,2017,2019-04-17
-Minister for Communication and ICT,Timothy Masiu,Q29650223,2020-12-20,2022-06-11
+Minister for Communication and ICT,Timothy Masiu,Q29650223,2020-12-20,
 Minister for Community Development,Soroi Eoe,Q64747295,2017-08-09,2019-05-31
-Minister for Community Development,Wake Goi,Q7960737,2020-12-20,2022-06-11
+Minister for Community Development,Wake Goi,Q7960737,2020-12-20,2022-08
+Minister for Community Development,Jason Peter,Q114497171,2022-08,
 Minister for Correctional Services,Win Bakri Daki,Q96655331,2020-12-20,2022-01
-Minister for Correctional Services,Sekie Agisa,Q86450088,2022-01,
+Minister for Correctional Services,Sekie Agisa,Q86450088,2022-01,2022-08
 Minister for Defence,Solan Mirisim,Q96059149,2017-08,2019-04
+Minister for Defence,William Gogl Onglo,Q90717210,2019-05-13,2019-05-30
+Minister for Defence,Saki Soloma,Q113172045,2019-06-07,2020-12-19
 Minister for Defence,Solan Mirisim,Q96059149,2020-12-20,2021-07
 Minister for Defence,Win Bakri Daki,Q96655331,2022-01-11,
 Minister of Education,James Marape,Q6138903,2008-12-16,2011-08-02
 Minister of Education,Theo Zurenuoc,Q5362021,2011-08-08,2012-08-03
-Minister of Education,Jimmy Uguro,Q89995729,2020-12-20,2022-06-11
-Minister for Energy,Saki Soloma,Q113172045,2020-12-20,2022-06-11
+Minister of Education,Jimmy Uguro,Q89995729,2020-12-20,
+Minister for Energy,Saki Soloma,Q113172045,2020-12-20,2022-08
 "Minister for Environment, Conservation and Climate Change",Wera Mori,Q96057708,2020-12-20,2022-04
-"Minister for Environment, Conservation and Climate Change",Pogio Ghate,Q113840416,2022-04,
+"Minister for Environment, Conservation and Climate Change",Pogio Ghate,Q113840416,2022-04,2022-08
+"Minister for Environment, Conservation and Climate Change",Simon Kilepa,Q114497727,2022-08,
 Minister of Finance,James Marape,Q6138903,2012-08,2019-04-11
 Minister of Finance,Samuel Basil,Q28966596,2019-04-17,2019-05-13
 Minister of Finance,Rainbo Paita,Q96054319,2019-11-08,2020-12-19
-Minister of Finance,John Pundari,Q17318841,2020-12-20,
+Minister of Finance,John Pundari,Q17318841,2020-12-20,2022-08
 Minister of Finance,Rainbo Paita,Q96054319,2022-08-23,
-Minister for Fisheries and Marine Resources,Lino Tom,Q89782078,2020-12-20,2022-06-11
+Minister for Fisheries and Marine Resources,Lino Tom,Q89782078,2020-12-20,2022-08
+Minister for Fisheries and Marine Resources,Jelta Wong,Q89992188,2022-08,
 Minister of Foreign Affairs,John Kaputin,Q6242479,1999,2000
 Minister of Foreign Affairs,Michael Somare,Q316264,2000,2000
 Minister of Foreign Affairs,Bart Philemon,Q809205,2000,2001
@@ -67,42 +74,59 @@ Minister of Foreign Affairs,Patrick Pruaitch,Q35553617,2019-08-11,2020-12-20
 Minister of Foreign Affairs,Soroi Eoe,Q64747295,2020-12-20,2022-08-23
 Minister of Foreign Affairs,Justin Tkachenko,Q85991458,2022-08-24,
 Minister for Forestry,Walter Schnaubelt,Q35498105,2020-12-20,2022-01
-Minister for Forestry,Solan Mirisim,Q96059149,2022-01,
+Minister for Forestry,Solan Mirisim,Q96059149,2022-01,2022-08
+Minister for Forestry,Salio Waipo,Q114497404,2022-08,
 Minister for Health and HIV/AIDS,Jelta Wong,Q89992188,2019-11-08,2020-09-30
-Minister for Health and HIV/AIDS,Jelta Wong,Q89992188,2020-12-20,
+Minister for Health and HIV/AIDS,Jelta Wong,Q89992188,2020-12-20,2022-08
+Minister for Health and HIV/AIDS,Lino Tom,Q89782078,2022-08,
 Minister for Higher Education,Pila Kole Niningi,Q64495984,2017-08-09,2019-05-31
-Minister for Higher Education,Wesley Raminai,Q107400069,2020-12-20,2022-06-11
+Minister for Higher Education,Wesley Raminai,Q107400069,2020-12-20,2022-08
+Minister for Higher Education,Don Polye,Q1239419,2022-08,
 Minister for Housing and Urban Development,Justin Tkachenko,Q85991458,2019-06-07,2022-06-11
+Minister for Housing and Urban Development,Kobby Bomareo,Q87476701,2022-08-23,
 Minister for Immigration and Border Security,Westly Nukundj,Q96654358,2020-12-20,2022-04
 Minister for Immigration and Border Security,Bryan Jared Kramer,Q56043281,2022-04,
 Minister for Inter-Government Relations,Pila Kole Niningi,Q64495984,2019-06-07,2022-04-13
-Minister for Inter-Government Relations,Westly Nukundj,Q96654358,2022-04,
+Minister for Inter-Government Relations,Westly Nukundj,Q96654358,2022-04,2022-08
+Minister for Inter-Government Relations,Soroi Eoe,Q64747295,2022-08,
+Minister of International Trade,Richard Maru,Q64746863,2022-08-23,
 Minister for Justice,Bryan Jared Kramer,Q56043281,2020-12-21,2022-04-12
 Minister for Justice,Pila Kole Niningi,Q64495984,2022-04-13,
-Minister for Labour and Employment,Tomait Kapili,Q109045965,2020-12-20,2022-06-11
-Minister for Lands and Physical Planning,John Rosso,Q80070005,2020-12-20,2022-06-11
-Minister for Mining,Johnson Tuke,Q106730305,2020-12-20,2022-06-11
-Minister for Petroleum,Kerenga Kua,Q113838856,2020-12-20,2022-06-11
+Minister for Labour and Employment,Tomait Kapili,Q109045965,2020-12-20,2022-08
+Minister for Lands and Physical Planning,John Rosso,Q80070005,2020-12-20,
+Minister of Livestock,Sekie Agisa,Q86450088,2022-08,
+Minister for Mining,Johnson Tuke,Q106730305,2020-12-20,2022-08
+Minister for Mining,Ano Pala,Q567469,2022-08,
+Minister of Palm Oil,Francis Galia Maneke,Q89817169,2022-08-23,
+Minister for Petroleum,Kerenga Kua,Q113838856,2020-12-20,
 Minister of Planning,Samuel Basil,Q28966596,2020-10-01,2020-12-19
 Minister of Planning,Rainbo Paita,Q96054319,2020-11-16,2020-12-19
+Minister of Planning,James Marape,Q6138903,2022-08-11,
 Minister for Police,Jelta Wong,Q89992188,2017-08,2019-04
 Minister for Police,Bryan Jared Kramer,Q56043281,2019-06-07,2020-12-20
-Minister for Police,William Gogl Onglo,Q90717210,2020-12-20,2022-06-11
-Minister for Public Service,Joe Sungi,Q90144728,2020-12-20,2022-06-11
-Minister for Religion,Wake Goi,Q7960737,2020-12-20,2022-06-11
-Minister for Research,Wesley Raminai,Q107400069,2020-12-20,2022-06-11
-Minister for Rural Development,John Pundari,Q17318841,2020-12-20,2022-06-11
-Minister for Science and Technology,Wesley Raminai,Q107400069,2020-12-20,2022-06-11
-Minister for Sports and National Gaming,Wesley Raminai,Q107400069,2020-12-20,2022-06-11
+Minister for Police,William Gogl Onglo,Q90717210,2020-12-20,2022-08-11
+Minister for Police,Peter Tsiamalili Jnr,Q114498141,2022-08-23,
+Minister for Public Service,Joe Sungi,Q90144728,2020-12-20,
+Minister for Religion,Wake Goi,Q7960737,2020-12-20,2022-08
+Minister for Religion,Jason Peter,Q114497171,2022-08,
+Minister for Research,Wesley Raminai,Q107400069,2020-12-20,2022-08
+Minister for Research,Don Polye,Q1239419,2022-08,
+Minister for Rural Development,John Pundari,Q17318841,2020-12-20,2022-08
+Minister for Science and Technology,Wesley Raminai,Q107400069,2020-12-20,2022-08
+Minister for Science and Technology,Don Polye,Q1239419,2022-08,
+Minister for Sports and National Gaming,Wesley Raminai,Q107400069,2020-12-20,2022-08
+Minister for Sports and National Gaming,Don Polye,Q1239419,2022-08,
 Minister for State Enterprises,Jelta Wong,Q89992188,2020-11-16,2020-12-19
-Minister for State Enterprises,William Marra Duma,Q93348468,2020-12-20,2022-06-11
-"Minister for Tourism, Arts and Culture",Isi Henry Leonard,Q89921206,2020-12-20,2022-06-11
+Minister for State Enterprises,William Marra Duma,Q93348468,2020-12-20,
+"Minister for Tourism, Arts and Culture",Isi Henry Leonard,Q89921206,2020-12-20,
 Minister for Transport and Infrastructure,William Samb,Q96056567,2019-06-07,2022-01-10
 Minister for Transport and Infrastructure,Samuel Basil,Q28966596,2022-01,2022-05-11
 Minister for Treasury,Samuel Basil,Q28966596,2019-06-07,2019-08-27
 Minister for Treasury,Ian Ling-Stuckey,Q5959129,2019-08-27,
-Minister for Works and Implementation,Michael Nali,Q6833018,2020-12-20,2022-06-11
-Minister for Youth,Wake Goi,Q7960737,2020-12-20,2022-06-11
+Minister for Works and Implementation,Michael Nali,Q6833018,2020-12-20,2022-08
+Minister for Works and Implementation,Solan Mirisim,Q96059149,2022-08,
+Minister for Youth,Wake Goi,Q7960737,2020-12-20,2022-08
+Minister for Youth,Jason Peter,Q114497171,2022-08,
 President of Bougainville,John Momis,Q1312080,1999-12-09,2005-04-20
 President of Bougainville,Joseph Kabui,Q1707366,2005-06-15,2008-06-07
 President of Bougainville,John Tabinaman,Q5763004,2008-06-07,2009-01-06
