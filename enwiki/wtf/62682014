@@ -1,0 +1,260 @@
+{
+  "title": "John Rosso",
+  "pageID": 62682014,
+  "categories": [
+    "Living people",
+    "Pangu Party politicians",
+    "Members of the National Parliament of Papua New Guinea",
+    "Government ministers of Papua New Guinea",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Rosso is a Papua New Guinea politician and Member of the 10th Parliament of Papua New Guinea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Papua New Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliament of Papua New Guinea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John Rosso"
+                ]
+              }
+            },
+            {
+              "text": "He is also a businessman, and owns two companies based in Lae."
+            },
+            {
+              "text": "Elected as an independent, he joined the Pangu Party shortly after the election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pangu Party"
+                }
+              ]
+            },
+            {
+              "text": "He is currently Minister for Lands and Physical Planning in the Marape-Steven Government."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Papua New Guinea politician",
+          "template": "short description"
+        },
+        {
+          "template": "displaytitle:john rosso"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Honourable"
+          },
+          "honorific-suffix": {
+            "text": "MP"
+          },
+          "name": {
+            "text": "John Rosso"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Papua New Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prime Minister of Papua New Guinea"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "James Marape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Marape"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "25 May 2022"
+          },
+          "predecessor": {
+            "text": "Sam Basil",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sam Basil"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister for Lands and Physical Planning"
+          },
+          "primeminister1": {
+            "text": "James Marape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Marape"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 June 2019"
+          },
+          "predecessor1": {
+            "text": "Justin Tkatchenko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Justin Tkatchenko"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the National Parliament of Papua New Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Parliament of Papua New Guinea"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Lae Open",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lae Open"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "August 2017"
+          },
+          "predecessor2": {
+            "text": "Loujaya Kouza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Loujaya Kouza"
+              }
+            ]
+          },
+          "party": {
+            "text": "Pangu Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pangu Party"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Papua New Guinean"
+          },
+          "profession": {
+            "text": "Business"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://emtv.com.pg/rosso-formally-sworn-in-as-deputy-pm/",
+          "title": "Rosso Formally Sworn In as Deputy PM",
+          "work": "EMTV Online",
+          "date": "26 May 2022",
+          "access-date": "28 May 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rosso has been active in private enterprise and is the owner of FTM Construction and ESS Security Services."
+            },
+            {
+              "text": "He was once employed as a bouncer at the Club 69 nightclub in Lae run by Madang Open MP Bryan Jared Kramer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bryan Jared Kramer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rosso was first elected to the Lae Open seat in the 2017 General Elections as an independent candidate."
+            },
+            {
+              "text": "He subsequently joined Pangu Party (Pangu Pati).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pangu Party"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Minister for Lands & Physical Planning in the government of James Marape and was sworn in to office on 7 June 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James Marape"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://postcourier.com.pg/rosso-new-mp-lae/",
+          "title": "Rosso is new MP for Lae",
+          "accessdate": "28 December 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abc.net.au/radio-australia/programs/pacificbeat/new-lae-mp-confident-his-switch-to-government-is/8992274",
+          "title": "New Lae MP confident his switch to government is the right decision",
+          "accessdate": "28 December 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

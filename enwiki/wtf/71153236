@@ -1,0 +1,144 @@
+{
+  "title": "Henry Amuli",
+  "pageID": 71153236,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Papua New Guinean Seventh-day Adventists",
+    "21st-century politicians",
+    "Members of the National Parliament of Papua New Guinea",
+    "Government ministers of Papua New Guinea"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Henry Amuli is a Papua New Guinean politician.",
+              "formatting": {
+                "bold": [
+                  "Henry Amuli"
+                ]
+              }
+            },
+            {
+              "text": "He represents Sohe Open in the National Parliament of Papua New Guinea.",
+              "links": [
+                {
+                  "text": "Sohe Open",
+                  "type": "internal",
+                  "page": "Sohe District"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Parliament of Papua New Guinea"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Papua New Guniean cabinet minister (since 2022)",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Hon. Henry John Amuli, MP - Tenth Parliament of Papua New Guinea",
+          "url": "https://www.parliament.gov.pg/index.php/tenth-parliament/bio/view/sohe-district",
+          "access-date": "2022-06-26",
+          "website": "www.parliament.gov.pg",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In April 2022, he was appointed to the Cabinet of Papua New Guinea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Papua New Guinea"
+                }
+              ]
+            },
+            {
+              "text": "He became Minister of Commerce and Industry."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "admin",
+          "date": "2022-04-13",
+          "title": "Minister Wera Mori decommissioned in Cabinet reshuffle",
+          "url": "https://pmjamesmarape.com/minister-wera-mori-decommissioned-in-cabinet-reshuffle/",
+          "access-date": "2022-06-26",
+          "website": "PM JAMES MARAPE News Page",
+          "language": "en-AU",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Zarriga",
+          "first": "Miriam",
+          "date": "18 April 2022",
+          "title": "Outspoken Kramer stripped of justice portfolio just before PNG elections {{!}} Asia Pacific Report",
+          "url": "https://asiapacificreport.nz/2022/04/18/outspoken-kramer-stripped-of-justice-portfolio-just-before-png-elections/",
+          "access-date": "2022-06-26",
+          "website": "asiapacificreport",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Members of the National Parliament of Papua New Guinea, 2017–2022",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Members of the National Parliament of Papua New Guinea, 2017–2022"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "papuanewguinea-politician-stub"
+        }
+      ]
+    }
+  ]
+}

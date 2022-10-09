@@ -1,0 +1,128 @@
+{
+  "title": "Walter Schnaubelt",
+  "pageID": 54789322,
+  "categories": [
+    "Kyokushin kaikan practitioners",
+    "People from New Ireland Province",
+    "People from Namatanai",
+    "People from Matalai",
+    "Papua New Guinean male martial artists",
+    "Members of the National Parliament of Papua New Guinea",
+    "National Alliance Party (Papua New Guinea) politicians",
+    "Papua New Guinean people of Austrian descent",
+    "Papua New Guinean people of Chinese descent",
+    "Papua New Guinean politicians of Chinese descent",
+    "1966 births",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Walter David Schnaubelt (born 4 October 1966) of New Ireland, Chinese and Austrian parentage is the Member of Parliament for the Namatanai Open Electorate in the New Ireland Province of Papua New Guinea.",
+              "links": [
+                {
+                  "text": "New Ireland",
+                  "type": "internal",
+                  "page": "New Ireland (island)"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Ireland Province"
+                },
+                {
+                  "type": "internal",
+                  "page": "Papua New Guinea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Walter David Schnaubelt"
+                ]
+              }
+            },
+            {
+              "text": "He is a member and current National President of the National Alliance Party.",
+              "links": [
+                {
+                  "text": "National Alliance Party",
+                  "type": "internal",
+                  "page": "National Alliance Party (Papua New Guinea)"
+                }
+              ]
+            },
+            {
+              "text": "He defeated his first cousin Byron Chan by a landslide victory collecting 20,479 votes to Byron's 12,804 to claim the Namatanai Open Seat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Byron Chan"
+                }
+              ]
+            },
+            {
+              "text": "He won gold in Karate at the Pacific Games in 1999 in Guam.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Karate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pacific Games"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guam"
+                }
+              ]
+            },
+            {
+              "text": "Join the coalition government led by James Marape and Steven Davis in August 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James Marape"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Papua New Guinean politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2017",
+          "template": "blp refimprove"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.thenational.com.pg/schnaubelt-wins-last/",
+          "title": "Schnaubelt wins at last – the National",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "papuanewguinea-politician-stub"
+        }
+      ]
+    }
+  ]
+}
