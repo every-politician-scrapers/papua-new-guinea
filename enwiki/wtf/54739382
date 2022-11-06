@@ -49,7 +49,17 @@
         {
           "sentences": [
             {
-              "text": "He unseated former member Ben Micah of the Peoples Progress Party by 9,368 votes to Micah's 6,713 votes to claim the Kavieng Open Seat in the July, 2017 Papua New Guinea National Elections."
+              "text": "He unseated former member Ben Micah of the People's Progress Party by 9,368 votes to Micah's 6,713 votes to claim the Kavieng Open Seat in the July, 2017 Papua New Guinea National Elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ben Micah"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Progress Party"
+                }
+              ]
             },
             {
               "text": "This is his 2nd time to be elected as Member of Parliament for Kavieng Open Seat."
