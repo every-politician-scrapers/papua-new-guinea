@@ -354,9 +354,7 @@
         },
         {
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "{{news |date=2022-08-09 |title=james marape returned as png's prime minister after tense election |language=en-au |work=abc news |url=https://www.abc.net.au/news/2022-08-09/papua-new-guinea-election-results-james-marape-to-govern/101311978 |access-date=2022-11-11}}"
         }
       ]
     },
@@ -627,10 +625,13 @@
           "inline": {}
         },
         {
+          "title": "Marape Elected Prime Minister of Papua New Guinea",
+          "url": "https://news.pngfacts.com/2019/05/marape-elected-prime-minister-of-papua.html",
+          "access-date": "2022-11-11",
+          "website": "Papua New Guinea Today",
+          "language": "id",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "template": "citation",
@@ -677,9 +678,17 @@
         },
         {
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "{{web |title=pruaitch is alternate pm |url=https://postcourier.com.pg/pruaitch-alternate-pm/ |access-date=2022-11-11 |website=postcourier.com.pg |language=en-us|undefined"
+        },
+        {
+          "date": "2019-05-26",
+          "title": "Papua New Guinea's prime minister, Peter O’Neill, resigns",
+          "url": "http://www.theguardian.com/world/2019/may/26/papua-new-guineas-prime-minister-peter-oneill-resigns",
+          "access-date": "2022-11-11",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "template": "citation",
@@ -689,15 +698,7 @@
         },
         {
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "{{web |title=marape sworn in as country’s 8th pm |url=https://postcourier.com.pg/marape-sworn-countrys-8th-pm/ |access-date=2022-11-11 |website=postcourier.com.pg |language=en-us|undefined"
         },
         {
           "template": "citation",
@@ -857,10 +858,58 @@
       ],
       "references": [
         {
+          "date": "2020-11-13",
+          "title": "Papua New Guinea stands by for new government after MPs abandon James Marape",
+          "url": "http://www.theguardian.com/world/2020/nov/13/papua-new-guinea-stands-by-for-new-government-after-mps-abandon-james-marape",
+          "access-date": "2022-11-11",
+          "website": "the Guardian",
+          "language": "en}} |undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Opposition successfully moves to adjourn parliament to December 1",
+          "url": "https://postcourier.com.pg/opposition-successfully-moves-to-adjourn-parliament-to-december-1/",
+          "access-date": "2022-11-11",
+          "website": "postcourier.com.pg",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "List of Parties and MPs as of 16th November 2020",
+          "url": "https://postcourier.com.pg/list-of-parties-and-mps-as-of-141120/",
+          "access-date": "2022-11-11",
+          "website": "postcourier.com.pg",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "{{web |title=what transpired in the house |url=https://postcourier.com.pg/what-transpired-in-the-house/ |access-date=2022-11-11 |website=postcourier.com.pg |language=en-us|undefined"
+        },
+        {
+          "last": "PNG",
+          "first": "Business Advantage",
+          "date": "2020-11-17",
+          "title": "Parliament passes budget bills in lightning session, then adjourns until April 2021",
+          "url": "https://www.businessadvantagepng.com/breaking-news-parliament-passes-budget-bilsl-is-lightning-session-then-adjourns-until-april-2021/",
+          "access-date": "2022-11-11",
+          "website": "Business Advantage PNG",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "template": "citation",
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "{{web |title=showdown – the national |url=https://www.thenational.com.pg/showdown-3/ |access-date=2022-11-11 |website=www.thenational.com.pg|undefined"
         },
         {
           "template": "citation",
@@ -882,51 +931,11 @@
         },
         {
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "{{web |last= |first= |date=2022-08-03 |title=png election: pangu leads, pnc jolted |url=https://islandsbusiness.com/news-break/png-election-pangu-leads-pnc-jolted/ |access-date=2022-11-11 |website=islands business |language=en-us}}"
         },
         {
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "{{web |title=pm names 33-member cabinet – the national |url=https://www.thenational.com.pg/pm-names-33-member-cabinet/ |access-date=2022-11-11 |website=www.thenational.com.pg}}"
         }
       ]
     },
@@ -992,10 +1001,12 @@
           "inline": {}
         },
         {
+          "title": "Marape’s wife vows to support husband – The National",
+          "url": "https://www.thenational.com.pg/marapes-wife-vows-to-support-husband/",
+          "access-date": "2022-11-11",
+          "website": "www.thenational.com.pg}} |undefined",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "https://www.thenational.ae/world/oceania/papua-new-guinea-sets-audacious-goal-to-become-richest-black-christian-nation-1.874876/",
