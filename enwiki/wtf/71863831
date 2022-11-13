@@ -17,6 +17,13 @@
           "sentences": [
             {
               "text": "Justin Wayne Tkatchenko is a businessman, media personality and a Papuan New Guinean politician.",
+              "links": [
+                {
+                  "text": "Papuan New Guinean",
+                  "type": "internal",
+                  "page": "Papua New Guinea"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Justin Wayne Tkatchenko"
