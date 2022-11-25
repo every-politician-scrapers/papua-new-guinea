@@ -1,47 +1,47 @@
-item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended
-Q114496185,Deputy Prime Minister of Papua New Guinea,,,Q691,Q691,,
-Q114496186,Minister for Agriculture and Livestock,,,Q691,Q691,,
-Q114496187,Minister for Bougainville Affairs,,,Q691,Q691,,
-Q114496189,Minister for Civil Aviation,,,Q691,Q691,,
-Q114496190,Minister for Commerce and Industry,,,Q691,Q691,,
-Q114496191,Minister for Communication and ICT,,,Q691,Q691,,
-Q114496192,Minister for Community Development,,,Q691,Q691,,
-Q114496193,Minister for Correctional Services,,,Q691,Q691,,
-Q114496194,Minister for Defence,,,Q691,Q691,,
-Q114496195,Minister for Energy,,,Q691,Q691,,
-Q114496196,"Minister for Environment, Conservation and Climate Change",,,Q691,Q691,,
-Q114496197,Minister for Fisheries and Marine Resources,,,Q691,Q691,,
-Q24188607,Minister for Foreign Affairs and Immigration,,,Q691,Q691,,
-Q114496198,Minister for Forestry,,,Q691,Q691,,
-Q114496199,Minister for Health and HIV/AIDS,,,Q691,Q691,,
-Q114496200,Minister for Higher Education,,,Q691,Q691,,
-Q114496201,Minister for Housing and Urban Development,,,Q691,Q691,,
-Q114496202,Minister for Immigration and Border Security,,,Q691,Q691,,
-Q114496203,Minister for Inter-Government Relations,,,Q691,Q691,,
-Q114496204,Minister for Justice,,,Q691,Q691,,
-Q114496205,Minister for Labour and Employment,,,Q691,Q691,,
-Q114496206,Minister for Lands and Physical Planning,,,Q691,Q691,,
-Q114496207,Minister for Mining,,,Q691,Q691,,
-Q114496208,Minister for Petroleum,,,Q691,Q691,,
-Q114496209,Minister for Police and Internal Security,,,Q691,Q691,,
-Q114496210,Minister for Public Service,,,Q691,Q691,,
-Q114496211,Minister for Religion,,,Q691,Q691,,
-Q114496212,Minister for Research,,,Q691,Q691,,
-Q114496214,Minister for Rural Development,,,Q691,Q691,,
-Q114496215,Minister for Science and Technology,,,Q691,Q691,,
-Q114496216,Minister for Sports and National Gaming,,,Q691,Q691,,
-Q114496217,Minister for State Enterprises,,,Q691,Q691,,
-Q114496218,"Minister for Tourism, Arts and Culture",,,Q691,Q691,,
-Q114496219,Minister for Transport and Infrastructure,,,Q691,Q691,,
-Q114496220,Minister for Treasury,,,Q691,Q691,,
-Q114496221,Minister for Works and Implementation,,,Q691,Q691,,
-Q114496222,Minister for Youth,,,Q691,Q691,,
-Q114497965,Minister of Coffee,,,Q691,Q691,,
-Q113575679,Minister of Education,,,Q691,Q691,,
-Q113575677,Minister of Finance,Q6866951,Ministry of Finance,,Q691,,
-Q20716378,Minister of Foreign Affairs,,,Q691,Q691,,
-Q114498037,Minister of International Trade,,,Q691,Q691,,
-Q114497850,Minister of Livestock,,,Q691,Q691,,
-Q114496735,Minister of National Planning,,,Q691,Q691,,
-Q114497874,Minister of Palm Oil,,,Q691,Q691,,
-Q1074656,Prime Minister of Papua New Guinea,,,Q691,Q691,1975,
+item,itemLabel,ministry,ministryLabel,country,jurisdiction,began,ended,holders
+Q114496185,Deputy Prime Minister of Papua New Guinea,,,Q691,Q691,,,3
+Q114496186,Minister for Agriculture and Livestock,,,Q691,Q691,,,2
+Q114496187,Minister for Bougainville Affairs,,,Q691,Q691,,,2
+Q114496189,Minister for Civil Aviation,,,Q691,Q691,,,3
+Q114496190,Minister for Commerce and Industry,,,Q691,Q691,,,3
+Q114496191,Minister for Communication and ICT,,,Q691,Q691,,,2
+Q114496192,Minister for Community Development,,,Q691,Q691,,,3
+Q114496193,Minister for Correctional Services,,,Q691,Q691,,,2
+Q114496194,Minister for Defence,,,Q691,Q691,,,4
+Q114496195,Minister for Energy,,,Q691,Q691,,,1
+Q114496196,"Minister for Environment, Conservation and Climate Change",,,Q691,Q691,,,3
+Q114496197,Minister for Fisheries and Marine Resources,,,Q691,Q691,,,2
+Q24188607,Minister for Foreign Affairs and Immigration,,,Q691,Q691,,,0
+Q114496198,Minister for Forestry,,,Q691,Q691,,,3
+Q114496199,Minister for Health and HIV/AIDS,,,Q691,Q691,,,2
+Q114496200,Minister for Higher Education,,,Q691,Q691,,,3
+Q114496201,Minister for Housing and Urban Development,,,Q691,Q691,,,2
+Q114496202,Minister for Immigration and Border Security,,,Q691,Q691,,,2
+Q114496203,Minister for Inter-Government Relations,,,Q691,Q691,,,3
+Q114496204,Minister for Justice,,,Q691,Q691,,,2
+Q114496205,Minister for Labour and Employment,,,Q691,Q691,,,1
+Q114496206,Minister for Lands and Physical Planning,,,Q691,Q691,,,1
+Q114496207,Minister for Mining,,,Q691,Q691,,,2
+Q114496208,Minister for Petroleum,,,Q691,Q691,,,1
+Q114496209,Minister for Police and Internal Security,,,Q691,Q691,,,4
+Q114496210,Minister for Public Service,,,Q691,Q691,,,2
+Q114496211,Minister for Religion,,,Q691,Q691,,,2
+Q114496212,Minister for Research,,,Q691,Q691,,,2
+Q114496214,Minister for Rural Development,,,Q691,Q691,,,1
+Q114496215,Minister for Science and Technology,,,Q691,Q691,,,2
+Q114496216,Minister for Sports and National Gaming,,,Q691,Q691,,,2
+Q114496217,Minister for State Enterprises,,,Q691,Q691,,,2
+Q114496218,"Minister for Tourism, Arts and Culture",,,Q691,Q691,,,1
+Q114496219,Minister for Transport and Infrastructure,,,Q691,Q691,,,2
+Q114496220,Minister for Treasury,,,Q691,Q691,,,2
+Q114496221,Minister for Works and Implementation,,,Q691,Q691,,,2
+Q114496222,Minister for Youth,,,Q691,Q691,,,2
+Q114497965,Minister of Coffee,,,Q691,Q691,,,1
+Q113575679,Minister of Education,,,Q691,Q691,,,3
+Q113575677,Minister of Finance,Q6866951,Ministry of Finance,,Q691,,,4
+Q20716378,Minister of Foreign Affairs,,,Q691,Q691,,,22
+Q114498037,Minister of International Trade,,,Q691,Q691,,,1
+Q114497850,Minister of Livestock,,,Q691,Q691,,,1
+Q114496735,Minister of National Planning,,,Q691,Q691,,,3
+Q114497874,Minister of Palm Oil,,,Q691,Q691,,,1
+Q1074656,Prime Minister of Papua New Guinea,,,Q691,Q691,1975,,7
