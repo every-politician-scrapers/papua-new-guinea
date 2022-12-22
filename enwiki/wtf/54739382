@@ -17,15 +17,16 @@
         {
           "sentences": [
             {
-              "text": "Hon. Ian Ling-Stuckey, (born 27 December 1959) is the member of parliament for the Kavieng District, Papua New Guinea.",
+              "text": "Hon. Ian Ling-Stuckey, (born 27 December 1959) is a Papua New Guinean politician and Member of Parliament for the Kavieng District.",
               "links": [
                 {
+                  "text": "Papua New Guinean",
                   "type": "internal",
-                  "page": "Kavieng District"
+                  "page": "Papua New Guinea"
                 },
                 {
                   "type": "internal",
-                  "page": "Papua New Guinea"
+                  "page": "Kavieng District"
                 }
               ],
               "formatting": {
@@ -35,12 +36,17 @@
               }
             },
             {
-              "text": "He is a member of the National Alliance Party which is part of the opposition coalition for the 10th National Parliament of Papua New Guinea.",
+              "text": "He served as a member of the National Alliance Party until joining the Pangu Party and the Marape Government as Treasurer in 2019.",
               "links": [
                 {
                   "text": "National Alliance Party",
                   "type": "internal",
                   "page": "National Alliance Party (Papua New Guinea)"
+                },
+                {
+                  "text": "Pangu Party",
+                  "type": "internal",
+                  "page": "Pangu Pati"
                 }
               ]
             }
@@ -49,7 +55,7 @@
         {
           "sentences": [
             {
-              "text": "He unseated former member Ben Micah of the People's Progress Party by 9,368 votes to Micah's 6,713 votes to claim the Kavieng Open Seat in the July, 2017 Papua New Guinea National Elections.",
+              "text": "He unseated former member Ben Micah of the People's Progress Party by 9,368 votes to Micah's 6,713 votes to claim the Kavieng Open Seat in the 2017 elections.",
               "links": [
                 {
                   "type": "internal",
@@ -58,15 +64,25 @@
                 {
                   "type": "internal",
                   "page": "People's Progress Party"
+                },
+                {
+                  "text": "2017 elections",
+                  "type": "internal",
+                  "page": "2017 Papua New Guinean general election"
                 }
               ]
             },
             {
-              "text": "This is his 2nd time to be elected as Member of Parliament for Kavieng Open Seat."
+              "text": "This is his second time to be elected as Member of Parliament for the seat."
             },
             {
-              "text": "He first won in 1997, then left in 2002 to be the New Ireland Governor from 2002 to 2007 where he lost to Right Honourable Sir Julius Chan and now he has returned to claim back his old seat.",
+              "text": "He first won in 1997, then left in 2002 to be the New Ireland Governor from 2002 to 2007 where he lost to Right Honourable Sir Julius Chan and was later re-elected in his old seat.",
               "links": [
+                {
+                  "text": "New Ireland",
+                  "type": "internal",
+                  "page": "New Ireland Province"
+                },
                 {
                   "type": "internal",
                   "page": "Julius Chan"
@@ -180,10 +196,78 @@
               }
             ]
           },
+          "office2": {
+            "text": "Member of the National Parliament of Papua New Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Parliament of Papua New Guinea"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2017",
+            "number": 2017
+          },
+          "constituency2": {
+            "text": "Kavieng Open",
+            "links": [
+              {
+                "text": "Kavieng Open",
+                "type": "internal",
+                "page": "Kavieng District"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Ben Micah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Micah"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1997",
+            "number": 1997
+          },
+          "term_end3": {
+            "text": "2002",
+            "number": 2002
+          },
+          "predecessor3": {
+            "text": "Ben Micah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Micah"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Ben Micah",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Micah"
+              }
+            ]
+          },
           "birth_date": {
             "text": "December 27, 1959"
           },
           "party": {
+            "text": "Pangu Party (2019–)",
+            "links": [
+              {
+                "text": "Pangu Party",
+                "type": "internal",
+                "page": "Pangu Pati"
+              }
+            ]
+          },
+          "otherparty": {
             "text": "National Alliance Party",
             "links": [
               {
@@ -192,13 +276,25 @@
                 "page": "National Alliance Party (Papua New Guinea)"
               }
             ]
+          },
+          "alma_mater": {
+            "text": "Griffith University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Griffith University"
+              }
+            ]
           }
         }
       ],
       "references": [
         {
-          "url": "http://www.parliament.gov.pg/index.php/tenth-parliament/bio/view/kavieng-district",
-          "title": "Profile of MP Ian Ling-Stuckey",
+          "title": "Hon. Ian Ling-Stuckey, CMG, MP - Tenth Parliament of Papua New Guinea",
+          "url": "https://parliament.gov.pg/index.php/tenth-parliament/bio/view/kavieng-district",
+          "access-date": "2022-12-22",
+          "website": "parliament.gov.pg",
+          "language": "en",
           "template": "citation",
           "type": "web"
         },
