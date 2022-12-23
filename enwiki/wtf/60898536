@@ -36,33 +36,26 @@
               }
             },
             {
-              "text": "He is a Member of the National Parliament of Papua New Guinea for People's National Congress, representing Yangoru Saussia Open.",
+              "text": "He is a Member of the National Parliament of Papua New Guinea representing Yangoru Saussia Open, and is the leader of People’s First Party.",
               "links": [
                 {
                   "type": "internal",
                   "page": "National Parliament of Papua New Guinea"
                 },
                 {
-                  "text": "People's National Congress",
-                  "type": "internal",
-                  "page": "People's National Congress (Papua New Guinea)"
-                },
-                {
                   "text": "Yangoru Saussia Open",
                   "type": "internal",
                   "page": "Yangoru-Saussia District"
+                },
+                {
+                  "text": "People’s First Party",
+                  "type": "internal",
+                  "page": "People's First Party (Papua New Guinea)"
                 }
               ]
             },
             {
-              "text": "He was appointed as Minister for Finance and Rural Development on 13 May 2019 until 7 June 2019.",
-              "links": [
-                {
-                  "text": "Minister for Finance and Rural Development",
-                  "type": "internal",
-                  "page": "Minister of Finance of Papua New Guinea"
-                }
-              ]
+              "text": "He was appointed as Minister for International Trade and Investment in 2022."
             }
           ]
         },
@@ -102,7 +95,17 @@
             "text": "Min. Richard Maru (cropped).jpg"
           },
           "party": {
-            "text": "People's National Congress (2012–)",
+            "text": "People’s First Party (2020–)",
+            "links": [
+              {
+                "text": "People’s First Party",
+                "type": "internal",
+                "page": "People's First Party (Papua New Guinea)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "People's National Congress (2012–2020) Independent (2012)",
             "links": [
               {
                 "text": "People's National Congress",
@@ -110,9 +113,6 @@
                 "page": "People's National Congress (Papua New Guinea)"
               }
             ]
-          },
-          "otherparty": {
-            "text": "Independent (2012)"
           },
           "nationality": {
             "text": "Papua New Guinean"
@@ -137,6 +137,21 @@
             ]
           },
           "office": {
+            "text": "Minister for International Trade and Investment"
+          },
+          "primeminister": {
+            "text": "James Marape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Marape"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 August 2022"
+          },
+          "office2": {
             "text": "Minister for Finance and Rural Development",
             "links": [
               {
@@ -146,7 +161,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor2": {
             "text": "Sam Basil",
             "links": [
               {
@@ -155,7 +170,7 @@
               }
             ]
           },
-          "successor": {
+          "successor2": {
             "text": "Charles Abel",
             "links": [
               {
@@ -163,24 +178,6 @@
                 "page": "Charles Abel"
               }
             ]
-          },
-          "primeminister": {
-            "text": "Peter O'Neill",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Peter O'Neill"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "13 May 2019"
-          },
-          "term_end": {
-            "text": "7 June 2019"
-          },
-          "office2": {
-            "text": "Minister for National Planning and Monitoring"
           },
           "primeminister2": {
             "text": "Peter O'Neill",
@@ -192,14 +189,13 @@
             ]
           },
           "term_start2": {
-            "text": "2017",
-            "number": 2017
-          },
-          "term_end2": {
             "text": "13 May 2019"
           },
+          "term_end2": {
+            "text": "7 June 2019"
+          },
           "office3": {
-            "text": "Minister for Trade, Commerce and Industry"
+            "text": "Minister for National Planning and Monitoring"
           },
           "primeminister3": {
             "text": "Peter O'Neill",
@@ -211,14 +207,48 @@
             ]
           },
           "term_start3": {
-            "text": "2012",
-            "number": 2012
-          },
-          "term_end3": {
             "text": "2017",
             "number": 2017
           },
-          "office4": {
+          "term_end3": {
+            "text": "13 May 2019"
+          },
+          "primeminister4": {
+            "text": "James Marape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Marape"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "7 June 2019"
+          },
+          "term_end4": {
+            "text": "27 August 2019"
+          },
+          "office5": {
+            "text": "Minister for Trade, Commerce and Industry"
+          },
+          "primeminister5": {
+            "text": "Peter O'Neill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter O'Neill"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end5": {
+            "text": "2017",
+            "number": 2017
+          },
+          "office6": {
             "text": "Member of the National Parliament of Papua New Guinea",
             "links": [
               {
@@ -227,7 +257,7 @@
               }
             ]
           },
-          "constituency4": {
+          "constituency6": {
             "text": "Yangoru Saussia Open",
             "links": [
               {
@@ -237,7 +267,7 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start6": {
             "text": "2012",
             "number": 2012
           }
@@ -245,10 +275,10 @@
       ],
       "references": [
         {
-          "url": "http://www.parliament.gov.pg/index.php/tenth-parliament/bio/view/yangoru-saussia-district",
           "title": "Hon. Richard Maru, OBE, MP - Tenth Parliament of Papua New Guinea",
-          "website": "www.parliament.gov.pg",
+          "url": "http://www.parliament.gov.pg/index.php/tenth-parliament/bio/view/yangoru-saussia-district",
           "access-date": "2019-05-29",
+          "website": "www.parliament.gov.pg",
           "template": "citation",
           "type": "web"
         }
@@ -311,7 +341,7 @@
         {
           "sentences": [
             {
-              "text": "He was re-elected in the 2017 election, now representing People's National Congress.",
+              "text": "He was re-elected in the 2017 election, representing People's National Congress.",
               "links": [
                 {
                   "text": "People's National Congress",
@@ -324,6 +354,38 @@
               "text": "He was then appointed Minister for National Planning and Monitoring."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed as Minister for Finance and Rural Development on 13 May 2019 until 7 June 2019.",
+              "links": [
+                {
+                  "text": "Minister for Finance and Rural Development",
+                  "type": "internal",
+                  "page": "Minister of Finance of Papua New Guinea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of 2022 he is the leader of the People’s First Party."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Hon. Richard Maru, OBE, MP - Eleventh Parliament of Papua New Guinea",
+          "url": "https://parliament.gov.pg/index.php/eleventh-parliament/bio/view/yangoru-saussia-district",
+          "access-date": "2022-12-22",
+          "website": "parliament.gov.pg",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
