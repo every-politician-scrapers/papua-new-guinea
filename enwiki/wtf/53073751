@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Sir Bob Bofeng Dadae (born 8 March 1961) is a Papua New Guinean politician who serves as the tenth and current governor-general of Papua New Guinea.",
+              "text": "Sir Bob Bofeng Dadae (born 8 March 1961) is a Papua New Guinean politician who serves as the tenth and current Governor-General of Papua New Guinea.",
               "links": [
                 {
                   "text": "Papua New Guinean",
@@ -30,7 +30,6 @@
                   "page": "Papua New Guinea"
                 },
                 {
-                  "text": "governor-general of Papua New Guinea",
                   "type": "internal",
                   "page": "Governor-General of Papua New Guinea"
                 }
@@ -89,6 +88,9 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": []
         },
         {
           "sentences": [
@@ -168,7 +170,21 @@
           ]
         },
         {
-          "sentences": []
+          "sentences": [
+            {
+              "text": "Dadae was nominated to run for a second term as Governor-General in December 2022 alongside Winnie Kiap and Stephen Pokawin.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Winnie Kiap"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stephen Pokawin"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -182,7 +198,7 @@
       ],
       "templates": [
         {
-          "description": "10th and current governor-general of Papua New Guinea",
+          "description": "10th and current Governor-General of Papua New Guinea",
           "template": "short description"
         },
         {
@@ -385,6 +401,15 @@
           "type": "inline",
           "data": {},
           "inline": {}
+        },
+        {
+          "title": "Race for head of state",
+          "url": "https://postcourier.com.pg/race-for-head-of-state/",
+          "access-date": "2022-12-23",
+          "website": "postcourier.com.pg",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "http://www.parliament.gov.pg/index.php/member-of-parliament/bio/view/kabwum-district",

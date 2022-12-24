@@ -7,6 +7,7 @@
     "Speakers of the National Parliament of Papua New Guinea",
     "Papua New Guinean Seventh-day Adventists",
     "People's National Congress (Papua New Guinea) politicians",
+    "Pangu Party politicians",
     "21st-century Papua New Guinean politicians",
     "Companions of the Order of St Michael and St George"
   ],
@@ -18,12 +19,17 @@
         {
           "sentences": [
             {
-              "text": "Job Pomat, CMG (born 1960) is a Papua New Guinean politician.",
+              "text": "Job Pomat CMG (born 1960) is a Papua New Guinean politician.",
               "links": [
                 {
                   "text": "CMG",
                   "type": "internal",
                   "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "Papua New Guinean",
+                  "type": "internal",
+                  "page": "Papua New Guinea"
                 }
               ],
               "formatting": {
@@ -33,22 +39,21 @@
               }
             },
             {
-              "text": "He has been Speaker of the National Parliament since 2017.",
+              "text": "He has represented the electorate of Manus Open in the National Parliament of Papua New Guinea on two separate occasions since 2007 and has been Speaker of the National Parliament since 2017.",
               "links": [
+                {
+                  "text": "Manus Open",
+                  "type": "internal",
+                  "page": "Manus District"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Parliament of Papua New Guinea"
+                },
                 {
                   "text": "Speaker of the National Parliament",
                   "type": "internal",
                   "page": "Speaker of the National Parliament of Papua New Guinea"
-                }
-              ]
-            },
-            {
-              "text": "He resigned from the People's National Congress in 2020.",
-              "links": [
-                {
-                  "text": "People's National Congress",
-                  "type": "internal",
-                  "page": "People's National Congress (Papua New Guinea)"
                 }
               ]
             }
@@ -57,24 +62,215 @@
       ],
       "templates": [
         {
-          "date": "August 2022",
-          "template": "expand french"
+          "description": "Speaker of National Parliament of Papua New Guinea",
+          "template": "short description"
         },
         {
-          "description": "Papua New Guinean politician",
-          "template": "short description"
+          "birth_year": "1960",
+          "template": "birth year and age"
         }
       ],
-      "references": [
+      "infoboxes": [
         {
-          "date": "2020-06-23",
-          "title": "PNG parliament speaker resigns from party",
-          "url": "https://www.rnz.co.nz/international/pacific-news/419681/png-parliament-speaker-resigns-from-party",
-          "access-date": "2022-07-07",
-          "website": "RNZ",
-          "language": "en-nz",
-          "template": "citation",
-          "type": "web"
+          "honorific-suffix": {
+            "text": "CMG MP",
+            "links": [
+              {
+                "text": "CMG",
+                "type": "internal",
+                "page": "Companion of the Order of St Michael and St George"
+              },
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament"
+              }
+            ]
+          },
+          "honorific-prefix": {
+            "text": "The Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Job Pomat"
+          },
+          "birth_date": {
+            "text": "1960 (age 62)"
+          },
+          "birth_place": {
+            "text": "Rossun, Manus Island, Territory of New Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Manus Island"
+              },
+              {
+                "type": "internal",
+                "page": "Territory of New Guinea"
+              }
+            ]
+          },
+          "party": {
+            "text": "Pangu Party (2022–)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pangu Party"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Independent (2020–2022) People’s National Congress (2007-2020)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              },
+              {
+                "text": "People’s National Congress",
+                "type": "internal",
+                "page": "People's National Congress (Papua New Guinea)"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Papua New Guinean"
+          },
+          "office": {
+            "text": "Speaker of the National Parliament of Papua New Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Speaker of the National Parliament of Papua New Guinea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2 August 2017"
+          },
+          "predecessor": {
+            "text": "Theo Zurenuoc",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theo Zurenuoc"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Fisheries Minister"
+          },
+          "primeminister1": {
+            "text": "Peter O'Neill",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter O'Neill"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end1": {
+            "text": "2012",
+            "number": 2012
+          },
+          "office2": {
+            "text": "Inter-Government Relations Minister"
+          },
+          "term_start2": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "primeminister2": {
+            "text": "Michael Somare",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Somare"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the National Parliament of Papua New Guinea",
+            "links": [
+              {
+                "type": "internal",
+                "page": "National Parliament of Papua New Guinea"
+              }
+            ]
+          },
+          "constituency3": {
+            "text": "Manus Open",
+            "links": [
+              {
+                "text": "Manus Open",
+                "type": "internal",
+                "page": "Manus District"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor3": {
+            "text": "Ronny Knight",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ronny Knight"
+              }
+            ]
+          },
+          "constituency4": {
+            "text": "Manus Open",
+            "links": [
+              {
+                "text": "Manus Open",
+                "type": "internal",
+                "page": "Manus District"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end4": {
+            "text": "2012",
+            "number": 2012
+          },
+          "predecessor4": {
+            "text": "Charlie Benjamin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charlie Benjamin"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Ronny Knight",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ronny Knight"
+              }
+            ]
+          }
         }
       ]
     },
@@ -85,26 +281,366 @@
         {
           "sentences": [
             {
-              "text": "Job Pomat was born to Peter Pomat, a village chief, Seventh-day Adventist missionary and politician.",
+              "text": "Pomat grew up in the village of Rossun on the island of Manus, in what was then the Territory of Papua and New Guinea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Territory of Papua and New Guinea"
+                }
+              ]
+            },
+            {
+              "text": "His father Peter Pomat, village chief and missionary of the Seventh-day Adventist Church, ran unsuccessfully three times in the elections for the colonial legislative assembly, prior to independence in 1975.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Peter Pomat"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seventh-day Adventist Church"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He worked as a technician for various companies before contesting the 1993 provincial election."
+            },
+            {
+              "text": "He served as Speaker and Deputy Governor of the Manus provincial government for two terms."
             }
           ]
         }
       ],
       "references": [
         {
-          "url": "https://thenational.com.pg/how-job-made-it-right-for-late-dad/",
-          "title": "How Job made it right for late dad",
           "last": "Ingipa",
           "first": "Joyce",
           "date": "2019-11-07",
-          "website": "The National",
+          "title": "How Job made it right for late dad",
+          "url": "https://thenational.com.pg/how-job-made-it-right-for-late-dad/",
           "access-date": "2022-09-13",
+          "website": "The National",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pomat was first elected to the National Parliament at the 2007 general election in the seat of Manus Open, representing People’s National Congress.",
+              "links": [
+                {
+                  "text": "2007 general election",
+                  "type": "internal",
+                  "page": "2007 Papua New Guinean general election"
+                },
+                {
+                  "text": "People’s National Congress",
+                  "type": "internal",
+                  "page": "People's National Congress (Papua New Guinea)"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Inter-Government Relations Minister in Prime Minister Michael Somare’s Cabinet.",
+              "links": [
+                {
+                  "text": "Michael Somare’s",
+                  "type": "internal",
+                  "page": "Michael Somare"
+                }
+              ]
+            },
+            {
+              "text": "He then served as Fisheries Minister in Peter O’Neill’s Cabinet.",
+              "links": [
+                {
+                  "text": "Peter O’Neill’s",
+                  "type": "internal",
+                  "page": "Peter O'Neill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He lost his seat at the 2012 general election after one term to then-New Generation Party member Ronny Knight.",
+              "links": [
+                {
+                  "text": "2012 general election",
+                  "type": "internal",
+                  "page": "2012 Papua New Guinean general election"
+                },
+                {
+                  "text": "New Generation Party",
+                  "type": "internal",
+                  "page": "New Generation Party (Papua New Guinea)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ronny Knight"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He regained the seat at the 2017 general election and was subsequently elected as Speaker of the tenth National Parliament.",
+              "links": [
+                {
+                  "text": "2017 general election",
+                  "type": "internal",
+                  "page": "2017 Papua New Guinean general election"
+                }
+              ]
+            },
+            {
+              "text": "As Speaker, he had totems and other artefacts reintroduced into Parliament that his predecessor Theo Zurenuoc had removed in 2013 for religious reasons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Theo Zurenuoc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2018, he became the deputy leader of People’s National Congress."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019, the Australian Financial Review reported that Paladin Solutions PNG, which was awarded government security contracts worth A$423 million on Manus Island, entered into an agreement in 2018 with Peren Investment, a company majority controlled by Pomat’s brothers Kepo, Allan and Polosong Pomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australian Financial Review"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paladin Solutions"
+                }
+              ]
+            },
+            {
+              "text": "Job Pomat denied any wrongdoing and that he would have indirectly benefited from the agreement."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2019, Pomat was criticised for refusing to allow the opposition to introduce a censure motion against Prime Minister Peter O'Neill, and then refusing to authorise a vote on his own removal as speaker."
+            },
+            {
+              "text": "O'Neill resigned the next day, and Job Pomat presided over the election of James Marape to the position of Prime Minister by MPs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "James Marape"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He resigned from the People's National Congress on 22 June 2020 and became an independent to protect his neutrality as speaker and in response to allegations of fraud."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021, opposition leader Belden Namah filed an application to the Supreme Court against Pomat which alleged that he had breached the Constitution in his role as Speaker.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Belden Namah"
+                },
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Papua New Guinea"
+                },
+                {
+                  "text": "Constitution",
+                  "type": "internal",
+                  "page": "Constitution of Papua New Guinea"
+                }
+              ]
+            },
+            {
+              "text": "The accusations relate to Pomat’s forced adjournment of Parliament in December 2020 and passing of the 2021 national budget without debate."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pomat won his seat at the 2022 general election as a candidate for the Pangu Party and was re-elected as Speaker of the eleventh National Parliament.",
+              "links": [
+                {
+                  "text": "2022 general election",
+                  "type": "internal",
+                  "page": "2022 Papua New Guinean general election"
+                },
+                {
+                  "text": "Pangu Party",
+                  "type": "internal",
+                  "page": "Pangu Pati"
+                }
+              ]
+            },
+            {
+              "text": "As of 2022, he is also the Chairman of Broadcasting of Parliamentary Proceedings, Legislation and National Parliament Committees."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.pngec.gov.pg/resultsNat2007/SummaryResults.htm",
+          "title": "NATIONAL ELECTION 2007",
+          "publisher": "PNG Electoral Commission",
+          "accessdate": "23 March 2017",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20070823133021/http://www.pngec.gov.pg/resultsNat2007/SummaryResults.htm",
+          "archivedate": "23 August 2007",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "NATIONAL PARLIAMENTARY ELECTIONS 2012",
+          "url": "http://results.pngec.gov.pg/index.html",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20120815045210/http://results.pngec.gov.pg/index.html",
+          "archivedate": "15 August 2012",
+          "accessdate": "23 March 2017",
+          "publisher": "PNG Electoral Commission",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Popot",
+          "first": "Glenda",
+          "date": "2017-10-19",
+          "title": "Parliament totems to be reinstated",
+          "url": "https://www.looppng.com/node/68167",
+          "access-date": "2022-12-23",
+          "website": "Loop PNG",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "O’Neill welcomes three more MPs to PNC",
+          "url": "https://postcourier.com.pg/oneill-welcomes-three-mps-pnc/",
+          "access-date": "2022-12-23",
+          "website": "postcourier.com.pg",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-02-17",
+          "title": "Paladin cut deal with family of PNG powerbroker",
+          "url": "https://www.afr.com/world/paladin-cut-deal-with-family-of-png-powerbroker-20190217-h1bd8m",
+          "access-date": "2022-12-23",
+          "website": "Australian Financial Review",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "I have nothing to hide over Paladin Contract, says PNG Parliament Speaker Pomat",
+          "url": "https://news.pngfacts.com/2019/02/i-have-nothing-to-hide-over-paladin.html",
+          "access-date": "2022-12-23",
+          "website": "Papua New Guinea Today",
+          "language": "id",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Tahana",
+          "first": "Jamie",
+          "last2": "Blades",
+          "first2": "Johnny",
+          "last3": "Hawkins",
+          "first3": "Koroi",
+          "date": "2019-05-28",
+          "title": "PNG parliament erupts in chaos as motions are rejected",
+          "url": "https://www.rnz.co.nz/international/pacific-news/390753/png-parliament-erupts-in-chaos-as-motions-are-rejected",
+          "access-date": "2022-12-23",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2019-05-30",
+          "title": "Papua New Guinea MPs elect James Marape to be next prime minister",
+          "url": "http://www.theguardian.com/world/2019/may/30/papua-new-guinea-james-marape-next-prime-minister",
+          "access-date": "2022-12-23",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2020-06-23",
+          "title": "PNG parliament speaker resigns from party",
+          "url": "https://www.rnz.co.nz/international/pacific-news/419681/png-parliament-speaker-resigns-from-party",
+          "access-date": "2022-07-07",
+          "website": "RNZ",
+          "language": "en-nz",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Court application against Speaker of Parliament to be prosecuted",
+          "url": "https://postcourier.com.pg/speaker-to-be-prosecuted/",
+          "access-date": "2022-12-23",
+          "website": "postcourier.com.pg",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-02-05",
+          "title": "PNG’s power plays and political sideshows",
+          "url": "https://crawford.anu.edu.au/news-events/news/18400/pngs-power-plays-and-political-sideshows",
+          "access-date": "2022-12-23",
+          "website": "Crawford School of Public Policy",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hon. Job Pomat, CMG, MP - Eleventh Parliament of Papua New Guinea",
+          "url": "https://parliament.gov.pg/index.php/eleventh-parliament/bio/view/manus-district",
+          "access-date": "2022-12-23",
+          "website": "parliament.gov.pg",
+          "language": "en",
           "template": "citation",
           "type": "web"
         }
@@ -117,11 +653,40 @@
         {
           "sentences": [
             {
-              "text": "Pomat is a member of the Seventh-day Adventist Church.",
+              "text": "Pomat is a member of the Seventh-day Adventist Church."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pomat’s contribution and service to the community was recognised by the Queen of Papua New Guinea, Elizabeth II.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Seventh-day Adventist Church"
+                  "page": "Queen of Papua New Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ]
+            },
+            {
+              "text": "In November 2019, Pomat was awarded the Most Distinguished Order of St Michael and St George by the Governor-General Bob Dadae.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                },
+                {
+                  "text": "Governor-General",
+                  "type": "internal",
+                  "page": "Governor-General of Papua New Guinea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bob Dadae"
                 }
               ]
             }
@@ -143,14 +708,44 @@
       ]
     },
     {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Video of Job Pomat's election as Speaker of Parliament [archive], EMTV, 2 August 2017",
+            "links": [
+              {
+                "text": "Video of Job Pomat's election as Speaker of Parliament",
+                "type": "external",
+                "site": "https://www.youtube.com/watch?v=ITHp6B-IvJA"
+              },
+              {
+                "text": "archive",
+                "type": "external",
+                "site": "https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DITHp6B-IvJA"
+              },
+              {
+                "text": "https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DITHp6B-IvJA archive",
+                "type": "internal",
+                "page": "https://archive.wikiwix.com/cache/?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DITHp6B-IvJA archive"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
       "title": "References",
       "depth": 0,
       "templates": [
         {
           "template": "reflist"
-        },
-        {
-          "template": "papuanewguinea-politician-stub"
         }
       ]
     }
