@@ -55,6 +55,9 @@
             },
             {
               "text": "Kramer was returned with a sizeable majority, but was unsuccessful in securing the election of another Party member."
+            },
+            {
+              "text": "He was suspended from office on 30 September 2022 pending the outcomes of a leadership tribunal."
             }
           ]
         }
@@ -90,7 +93,7 @@
             "text": "Madang"
           },
           "office1": {
-            "text": "Minister for Immigration and Citizenship"
+            "text": "Minister for Labour and Immigration"
           },
           "primeminister1": {
             "text": "James Marape",
@@ -102,19 +105,13 @@
             ]
           },
           "term_start1": {
-            "text": "13 April 2022"
+            "text": "23 August 2022"
           },
-          "predecessor1": {
-            "text": "Westley Nukundj",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Westley Nukundj"
-              }
-            ]
+          "term_end1": {
+            "text": "30 September 2022 (suspended)"
           },
           "office2": {
-            "text": "Minister for Justice"
+            "text": "Minister for Immigration and Citizenship"
           },
           "primeminister2": {
             "text": "James Marape",
@@ -126,22 +123,22 @@
             ]
           },
           "term_start2": {
-            "text": "21 December 2020"
+            "text": "13 April 2022"
           },
           "term_end2": {
-            "text": "12 April 2022"
+            "text": "10 August 2022"
           },
           "predecessor2": {
-            "text": "Davis Steven",
+            "text": "Westley Nukundj",
             "links": [
               {
                 "type": "internal",
-                "page": "Davis Steven"
+                "page": "Westley Nukundj"
               }
             ]
           },
           "office3": {
-            "text": "Minister for Police"
+            "text": "Minister for Justice"
           },
           "primeminister3": {
             "text": "James Marape",
@@ -153,12 +150,39 @@
             ]
           },
           "term_start3": {
-            "text": "7 June 2019"
+            "text": "21 December 2020"
           },
           "term_end3": {
-            "text": "20 December 2020"
+            "text": "12 April 2022"
           },
           "predecessor3": {
+            "text": "Davis Steven",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Davis Steven"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Minister for Police"
+          },
+          "primeminister4": {
+            "text": "James Marape",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Marape"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "7 June 2019"
+          },
+          "term_end4": {
+            "text": "20 December 2020"
+          },
+          "predecessor4": {
             "text": "Jelta Wong",
             "links": [
               {
@@ -167,7 +191,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Member of the National Parliament of Papua New Guinea",
             "links": [
               {
@@ -176,7 +200,7 @@
               }
             ]
           },
-          "constituency4": {
+          "constituency5": {
             "text": "Madang Open",
             "links": [
               {
@@ -185,10 +209,13 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "August 2017"
           },
-          "predecessor4": {
+          "term_end5": {
+            "text": "30 September 2022 (suspended)"
+          },
+          "predecessor5": {
             "text": "Nixon Duban",
             "links": [
               {
@@ -230,6 +257,9 @@
           },
           "profession": {
             "text": "Accountant"
+          },
+          "children": {
+            "text": "None"
           }
         }
       ],
@@ -260,6 +290,13 @@
           "title": "PNG Election Results",
           "url": "https://results.pngec.gov.pg/",
           "access-date": "15 August 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://postcourier.com.pg/kramer-suspended/",
+          "title": "Kramer suspended",
+          "accessdate": "26 December 2022",
           "template": "citation",
           "type": "web"
         }
@@ -1452,13 +1489,19 @@
       ]
     },
     {
-      "title": "Minister for Immigration and Citizenship",
+      "title": "Minister for Labour and Immigration",
       "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
               "text": "Kramer was appointed Minister for Immigration and Citizenship on 13 April 2022, in a minor cabinet reshuffle shortly before the issue of writs for the PNG National Election 2022."
+            },
+            {
+              "text": ". He was reappointed in a combined portfolio as Minister for Labour and Immigration on 23 August 2022."
+            },
+            {
+              "text": "He was suspended from the role on September 30 2022 on the commencement of a leadership tribunal brought by the Chief Ombudsman."
             }
           ]
         }
@@ -1468,6 +1511,96 @@
           "url": "https://asiapacificreport.nz/2022/04/18/outspoken-kramer-stripped-of-justice-portfolio-just-before-png-elections/",
           "title": "Outspoken Kramer stripped of justice portfolio just before PNG elections",
           "accessdate": "23 April 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.pngfacts.com/2022/08/png-government-cabinet-announced.html",
+          "title": "PNG Government cabinet announced",
+          "accessdate": "26 December 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://postcourier.com.pg/kramer-suspended/",
+          "title": "Kramer suspended",
+          "accessdate": "26 December 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Leadership Tribunal",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chief Ombudsman Richard Pagan initiated court proceedings for a leadership tribunal after complaints against Kramer were made, including by Chief Justice Sir Gibbs Salika, under Papua New Guinea's Organic Law on the Duties and Responsibilities of Leadership.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gibbs Salika"
+                }
+              ]
+            },
+            {
+              "text": "Kramer had 14 allegations of misconduct in office raised against him, including charges of scandalising the judiciary and insinuating a conflict of interest brought forward by Salika over social media publications referring to Salika and to purported fake documents filed after the arrest of O'Neill in 2019."
+            },
+            {
+              "text": "Other charges included misappropriation of Madang District funds."
+            },
+            {
+              "text": "Two charges were subsequently dropped, including an allegation that Kramer had misappropriated PGK30 million of District funds which withdrawn when the Public Prosecutor was unable to substantiate the charge with evidence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kramer vigorously denied all charges, saying that the allegations were vexatious and unsubstantiated."
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://postcourier.com.pg/kramer-suspended/",
+          "title": "Kramer suspended",
+          "accessdate": "26 December 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Organic Law on the Duties and Responsibilities of Leadership",
+          "url": "http://www.paclii.org/pg/legis/consol_act/olotdarol528/",
+          "website": "Pacific Islands Legal Reform Institute",
+          "accessdate": "26 December 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://postcourier.com.pg/kramer-pleads-not-guilty/",
+          "title": "Kramer pleads not guilty",
+          "accessdate": "26 December 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://postcourier.com.pg/allegation-of-k30m-misappropriation-against-kramer-withdrawn/",
+          "title": "Allegations of K30m misappropriation against Kramer withdrawn",
+          "accessdate": "26 December 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://postcourier.com.pg/kramer-to-face-leadership-tribunal/",
+          "title": "Kramer to face leadership tribunal",
+          "accessdate": "26 December 2022",
           "template": "citation",
           "type": "web"
         }
